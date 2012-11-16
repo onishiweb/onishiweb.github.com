@@ -283,87 +283,6 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/blog/2012/05/16/centered-menus/">Centered Menus</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-05-16T15:49:00+01:00" pubdate data-updated="true">May 16<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>So a while ago I was tasked with the job of building the fantastic site that is now <a href="http://www.palagioproducts.com/">www.palagioproducts.com</a>. When I first saw the designs I was very happy that it would be a nice straight forward build and I would have no real issues. I&#8217;ve already posted about one of the hurdles I encountered building the site which was the <a title="CSS Pseudo-elements" href="http://www.onishiweb.co.uk/2012/04/css-pseudo-elements/">lovely responsive borders</a> using CSS pseudo elements, yet that wasn&#8217;t the issue that most took me by surprise. The first major issue I encountered was a centrally aligned main menu, as seen here:</p>
-
-<p><a href="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/05/Il-Palagio-main-menu.png"><img class="alignnone size-full wp-image-263" title="Il Palagio main menu" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/05/Il-Palagio-main-menu.png" alt="" width="480" height="auto" /></a></p>
-
-<p>I&#8217;ll be honest I was stumped, at first I thought I should be able to get it working with my already quite extensive knowledge of CSS but for the life of me I wasn&#8217;t getting anywhere. I was very reluctant however to change any of my markup from the standard tidy navigation markup I&#8217;ve become accustomed to writing (below).</p>
-
-<pre><nav>
-    <ul>
-        <li><a href="#">Item 1</a></li>
-        <li><a href="#">Item 2</a></li>
-        <li><a href="#">Item 3</a></li>
-    </ul>
-</nav></pre>
-
-
-<p>So on the hunt I went for a solution as clearly I couldn&#8217;t come across one myself.</p>
-
-<p>And this is what I found, I know a couple of people who&#8217;ve had this issue recently as well and I&#8217;m sorry I&#8217;m only just posting this but you&#8217;re going to kick yourself when you see the next couple of lines:</p>
-
-<pre>
-nav ul {    
-    width: 100%;    
-    text-align: center;
-    padding: 0;
-}
-
-nav ul li { 
-    display: inline;    
-}
-</pre>
-
-
-<p>Here&#8217;s what it produces:</p>
-
-<p><nav id="centered-nav"></p>
-
-<ul>
-    <li><a href="#">Item 1</a></li>
-    <li><a href="#">Item 2</a></li>
-    <li><a href="#">Item 3</a></li>
-</ul>
-
-
-<p></nav></p>
-
-<p>And it really is as <strong>simple</strong> as that!</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
       <h1 class="entry-title"><a href="/blog/2012/05/11/rwd-process/">RWD: Development Process</a></h1>
     
     
@@ -718,6 +637,56 @@ Then anything that sort of I think is best fit for the top end of the resolution
 
     </article>
   
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/01/12/web-and-digital-education/">Web and Digital Education</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-12T21:00:00+00:00" pubdate data-updated="true">Jan 12<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Some months ago, in fact one of my first serious posts on here, I wrote about Education in the web industry from a University point of view. Where I spoke about my time at university and how I felt the course was limited and really didn&#8217;t provide me with much worthwhile education towards what I would ultimately choose as a career. Since then a lot has happened and I just want to update you on my thoughts about web education (as well as digital education in general) and what I&#8217;ve been doing over the last few months.</p>
+
+<p>I attended a Update conference in September last year (you may have read my <a title="Let the sunshine in – Update Conference 2011" href="http://www.onishiweb.co.uk/2011/09/let-the-sunshine-in-update-conference-2011/">review of the conference</a>) where I saw a fantastic talk by Anna Debenham on the Digital Native and the state of digital education in our schools. Since then I have been on a bit of a mission to do what I can to help this cause and also see how I can get involved with Universities and how they teach web design and development. So here&#8217;s some of the things I&#8217;ve been getting up to lately and some information on how you too can get involved too, because essentially that&#8217;s the only thing that&#8217;s going to help improve things, we can&#8217;t sit back and expect things to just fix themselves.</p>
+
+<p>One of the first things I did was become a <a title="STEM Ambassador" href="http://www.stemnet.org.uk/content/ambassadors/whoareambassadors">STEM Ambassador</a>. This is a voluntary programme which aims to give school children a better understanding and introductions into Science, Technology, Engineering, and Maths. So far I have gone through the training day and had my CRB check done (which was a simple process involving STEMNET and your local STEM organiser) and this year I will be starting to participate in ambassador activities with my aim being to do a session on coding the web which I hope will go down well.</p>
+
+<p>I also got back in touch with my University (Oxford Brookes). I attempted to do so through email with a lecturer there but unfortunately I had no reply, however, when I moaned profusely about this on Twitter, a friend Alun Rowe got in touch about a lecture he was about to give to the web design students there and asked if I would like to tag along. This worked out brilliantly and I managed to speak to a (different) lecturer at the Uni and I am now in contact with them and hoping to be able to do something to help with their courses or get involved with the Computing Society. I also spoke to Alun a bit about what he&#8217;s been doing with the Uni and it turns out he has been curating the Web Design Masters that they were running and now regularly gives guest lectures to the web design students which was fantastic news. I think if the industry is to improve and keep employing new people we need to get involved with the places they are coming from as professionals as universities unfortunately don&#8217;t have those people at their disposable without people offering. Also while I was there I heard that Opera are also getting involved at Brookes with Bruce Lawson giving a lecture there later in the semester, which I unfortunately missed due to work commitments. I think this goes to show that you just have to keep trying and talking to people and you never know what might turn up.</p>
+
+<p>Speaking of Opera, I also got in touch with Chris Mills on Alun&#8217;s recommendation about getting involved in the <a href="http://www.opera.com/company/education/curriculum/">Web Standards Curriculum</a>, he very kindly took some time out to write me back and pointed me towards joining the <a href="http://www.w3.org/community/webed/">W3C&#8217;s Web Education Community group</a> which I have no joined as a member and hope to gain something from that as well.</p>
+
+<p>Lastly I spoke at the <a href="http://oxford.geeknights.net/2011/nov-17th/">last Oxford Geek Night</a> on the subject of web education in universities. Although it was only a 5 minute spot (and I was a particularly rubbish speaker - I&#8217;ll blog about it soon), I got a lot of positive feedback from people at the evening and a lot of people spoke to me about what they are doing and that it&#8217;s definitely a good thing to be talking about which I appreciated a lot. Unfortunately I haven&#8217;t been able to do much since that night and haven&#8217;t heard much from the people there but you never know what might happen&#8230;new year and all that.</p>
+
+<p>So that&#8217;s about it for what I&#8217;ve been up to of late. I hope to be doing more this year especially in regards to STEM and the Web Education community. Something I&#8217;ve heard about recently through some friends is <a href="http://www.codecademy.com/">Codeacademy</a>. From what I&#8217;ve heard of this it&#8217;s a really well thought out introduction to coding in JavaScript and a very good initiative. At first look it seems really easy to interact with and will hopefully get a lot more people involved with coding. Something else that was announced this week is the fantastic news that the government, as of September will be replacing the droll ICT lessons of the last decade with <strong>compulsory </strong>computer science lessons! Now I don&#8217;t know about you but I think this is a major win for our education system. It&#8217;s time for education to move on and as technology is becoming a bigger part of our everyday lives I think it&#8217;s important that children are taught not only how to use a system but how it works and how to make things with it. There are some people who are going to say that they possibly shouldn&#8217;t be compulsory but I would argue that it is as much if not more important than any of the GCSE&#8217;s I took at school (namely RE, History, and Geography - which were compulsory in the first few years of secondary school).</p>
+
+<p>One last thing to mention is that recently I learned that Anna Debenham, pretty much the sole catalyst for most of my actions over the last few months, has stopped speaking at conferences which I think is massive loss. She&#8217;s an extremely talented individual and a lovely person (who even took some time out to talk to me at the Update conference after party), who I&#8217;ve seen talk a couple of times now and at both I felt she was easily one of the best speakers at the events. I really hope this is only temporary and at some point she will start speaking again because it would be a shame to lose such a talented speaker from the conference circuit.</p>
+</div>
+  
+  
+
+
+    </article>
+  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -749,7 +718,7 @@ Then anything that sort of I think is best fit for the top end of the resolution
       </li>
     
       <li class="post">
-        <a href="/blog/2012/05/16/centered-menus/">Centered Menus</a>
+        <a href="/blog/2012/05/11/rwd-process/">RWD: Development process</a>
       </li>
     
   </ul>
