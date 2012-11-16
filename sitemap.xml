@@ -1,15 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://onishiweb.github.com/blog/2011/01/29/new-adventures-conf/</loc>
+        <lastmod>2012-11-16T23:48:10+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2011/02/06/working-at-a-design-agency/</loc>
+        <lastmod>2012-11-16T23:47:05+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2011/02/21/education-in-the-web-industry/</loc>
+        <lastmod>2012-11-16T23:46:01+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2011/06/05/20-seconds-isnt-long/</loc>
+        <lastmod>2012-11-16T23:44:53+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2011/06/18/ios-tutorial/</loc>
+        <lastmod>2012-11-16T23:43:46+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2011/08/07/riding-the-apple-cart/</loc>
+        <lastmod>2012-11-16T23:42:47+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2011/09/06/let-the-sunshine-in/</loc>
+        <lastmod>2012-11-16T23:41:33+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/01/12/web-and-digital-education/</loc>
+        <lastmod>2012-11-16T23:40:34+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/01/22/ogn-education/</loc>
+        <lastmod>2012-11-16T23:39:29+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/04/11/css-pseudo-elements/</loc>
+        <lastmod>2012-11-16T23:37:05+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/04/19/development-setup/</loc>
+        <lastmod>2012-11-16T23:38:18+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/05/09/points-means-pixels/</loc>
+        <lastmod>2012-11-16T23:35:04+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/05/11/rwd-process/</loc>
+        <lastmod>2012-11-16T23:33:34+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/05/16/centered-menus/</loc>
+        <lastmod>2012-11-16T23:36:06+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/09/05/designer-developer-relationship/</loc>
+        <lastmod>2012-11-16T23:32:27+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/09/17/burnout/</loc>
+        <lastmod>2012-11-16T23:49:06+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://onishiweb.github.com/blog/2012/09/20/learning-through-teaching/</loc>
+        <lastmod>2012-11-16T23:29:38+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://onishiweb.github.com/blog/2012/11/16/new-blogging-setup/</loc>
         <lastmod>2012-11-16T22:21:12+00:00</lastmod>
     </url>
     <url>
         <loc>http://onishiweb.github.com/blog/archives/</loc>
-        <lastmod>2012-11-16T22:21:12+00:00</lastmod>
+        <lastmod>2012-11-16T23:49:06+00:00</lastmod>
     </url>
     <url>
         <loc>http://onishiweb.github.com/</loc>
-        <lastmod>2012-11-16T22:21:12+00:00</lastmod>
+        <lastmod>2012-11-16T23:49:06+00:00</lastmod>
     </url>
 </urlset>

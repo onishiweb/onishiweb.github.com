@@ -4,7 +4,7 @@
   <title><![CDATA[Some thoughts of Adam Onishi]]></title>
   <link href="http://onishiweb.github.com/atom.xml" rel="self"/>
   <link href="http://onishiweb.github.com/"/>
-  <updated>2012-11-16T22:36:59+00:00</updated>
+  <updated>2012-11-16T23:49:37+00:00</updated>
   <id>http://onishiweb.github.com/</id>
   <author>
     <name><![CDATA[Adam Onishi]]></name>
@@ -21,6 +21,690 @@
     <content type="html"><![CDATA[<p>I&#8217;m just starting to play with new technologies and techniques for blogging, the first two I&#8217;ve chosen are <a href="http://octopress.org/">Octopress</a> - this one - and <a href="http://scriptogr.am/">Scriptogram</a>. I&#8217;m yet to publish anything on Scriptogram but I&#8217;m thinking of putting content on there and here then seeing which is easiest to write to and manage over the coming months. My aim is to find something that makes writing easier and focuses me on that instead of putting a redesign ahead of creating content.</p>
 
 <p>Others platforms I&#8217;m considering are <a href="http://modx.com/">ModX</a>, <a href="http://grabaperch.com/">Perch</a>, and <a href="http://statamic.com/">Statamic</a> - the last two are paid for though so I&#8217;m not sure I&#8217;ll be trying out those for such a temporary solution.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Learning through teaching]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/09/20/learning-through-teaching/"/>
+    <updated>2012-09-20T10:00:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/09/20/learning-through-teaching</id>
+    <content type="html"><![CDATA[<p>I recently read a post by a friend, <a href="http://www.byrichardpowell.co.uk">Richard Powell</a>, <a href="http://www.byrichardpowell.co.uk/post/30923997379/you-are-not-an-expert">You&#8217;re not an expert, but that&#8217;s ok</a>. In which he says:</p>
+
+<blockquote>I often suggest that designers and developer run a workshop to share their knowledge only to hear: “I couldn’t give a workshop, I’m not an expert”</blockquote>
+
+
+<p>I can understand where people are coming from when they say that, I had very similar thoughts a while ago when I was thinking of running a WordPress workshop. However there is something I have found extremely useful when it comes to preparing a lecture, a talk and most certainly when working towards putting on a workshop. The best way to learn a subject and become an expert is by teaching it to someone else.</p>
+
+<p>It reminds me of a quote in Dirk Gently&#8217;s Holistic Detective Agency by Douglas Adams:</p>
+
+<blockquote>What I mean is that if you really want to understand something, the best way is to try and explain it to someone else. That forces you to sort it out in your own mind. And the more slow and dim-witted your pupil, the more you have to break things down into more and more simple ideas. […] By the time you’ve sorted out a complicated idea into little steps that even a stupid machine can deal with, you’ve certainly learned something about it yourself. The teacher usually learns more than the pupil.</blockquote>
+
+
+<p>Granted in context the quote is describing the art of programming, but I think it&#8217;s a great statement about teaching in general. To be able to explain something well to another person you need to truly understand it yourself. That being the case I would say that by running a workshop or giving a talk it will enable you to learn a subject so thoroughly that you might well consider yourself more of an expert afterwards than when you began.</p>
+
+<p>So essentially what I&#8217;m saying is just what Richard is, go and put on workshops, it will be of benefit to you just as much as it will be to the people you will be teaching.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Burnout]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/09/17/burnout/"/>
+    <updated>2012-09-17T19:26:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/09/17/burnout</id>
+    <content type="html"><![CDATA[<p>Over the last year or so my involvement in the web industry exploded; I began to look at my career as a love and much more than a job. I enjoyed working so much it was no longer constrained to 9-5, evenings and most weekends were spent doing what I loved, tapping away at code or reading books and blogs. I was having great fun and earning money, what more can you ask for in life.</p>
+
+<p>In 1972 Herbert J. Freudenberger defined burnout as &#8220;a demon born of the society and times we live in and our ongoing struggle to invest our lives with meaning. It is not a condition that gets better by being ignored. Nor is it any kind of disgrace. On the contrary, it’s a problem born of good intentions.&#8221;</p>
+
+<p>A few months ago I started losing the passion for my work, instead of spending weekends working I spent them trying to find things to get me away from it. I had reached the point where I had a lot of work, lots of free time and it was the last thing I wanted to do. I started concentrating on paying work only; I put off side projects and things that I had previously enjoyed doing. I felt like I was letting down friends, clients, and most of all myself.</p>
+
+<p>Burnout can manifest itself in many ways. Your behaviour can change, becoming more aggressive, cynical and frustrated with things. You feel empty and apathetic towards your work. In worse cases it can lead to depression and what is known as burnout syndrome, causing mental breakdown, physical collapse and possible, suicidal thoughts. Luckily I can only relate to a couple of those.</p>
+
+<p>Sitting here now I see what happened and try to work with it so I&#8217;m no longer as badly affected. I don&#8217;t feel nearly as bad as I once did. However this realisation didn&#8217;t come on it&#8217;s own; I read a post by <a href="http://rawkes.com/">Rob Hawkes</a> about his <a href="http://rawkes.com/articles/one-year-at-mozilla">first year at Mozilla</a>. He spoke about how amazing it had been but also how hard the constant travel and work was, and how after a while he too felt the effects of burnout. I spoke with him briefly afterwards on Twitter and it was nice to have someone I could talk to that I could relate to and have an open conversation with.</p>
+
+<p>Topics like this can be very personal, but affect more people than are willing to admit. By talking about it, I&#8217;m hoping others will realise it&#8217;s not just them, it&#8217;s common and it&#8217;s manageable.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Designer Developer relationship]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/09/05/designer-developer-relationship/"/>
+    <updated>2012-09-05T00:00:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/09/05/designer-developer-relationship</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve been a web developer for a few years now, mainly working at an agency, but with some freelance experience too. Generally this has meant the projects I work on will usually be alongside a designer, a situation which I&#8217;m sure many people are familiar with. This designer/developer relationship will therefore form the basis of their work together and I believe to produce great work you need a great working relationship. For me personally it&#8217;s been a bit of a love/hate experience and I&#8217;d like to share some of those experiences here and look at how it can be made into a much more enjoyable partnership for both roles.</p>
+
+<p>From my experiences I&#8217;m yet to work with many designers who know that much, if anything, about coding. And for the most part I&#8217;m terrible at designing! However I&#8217;m not here to say that designers should learn code and developers should learn to design&#8230; In my opinion it&#8217;s each to their own. If you want to learn another discipline that&#8217;s great and no doubt it will help with your work and your understanding of the wider picture. I&#8217;ve worked on teams though, where people are either out-and-out designers or developers and they are still extremely successful, in that situation it&#8217;s been because of a strong collaboration between the pair that makes the team successful. Unfortunately that&#8217;s not always the case and sometimes there can be disagreement, conflict and ill feelings towards one another. I&#8217;d like to look at how we can prevent things like that from happening and create a relationship which leads to great work and a good feeling between both designer and developer.</p>
+
+<h2>I love my job</h2>
+
+
+<p>Put simply, I love my job! I&#8217;m a terrible designer, but when given a flat design I can turn that into a masterpiece of code - well I like to think so anyway - and I really enjoy it. I think if I were to design as well as code I wouldn&#8217;t be able to produce anything close to what I do now working alongside a designer. Having someone to work alongside and bounce ideas off is fantastic, as great as it feels to produce a brilliant piece of individual work, there no feeling like working with someone, being inspired by their ideas and having them respond excitedly to something you&#8217;re done.</p>
+
+<p>And I love the challenge! If I were to design things for myself I don&#8217;t think I would be able to generate freedom from the code, I would design things knowing that I could code them easily or similar to something I&#8217;ve already seen. With a designer who doesn&#8217;t work with code they&#8217;re not bound as much by those contraints, they can design something which they think will look and work great and be as creative in that process as possible and it&#8217;s my job to work out how to turn that into code, and that&#8217;s where I get to have fun.</p>
+
+<h2>The not so good bits, and how easy they are to fix</h2>
+
+
+<p>Although the designer/developer relationship can be amazing and lead to some fantastic results, there are some things that can interrupt that creative process and cause the relationship to sour. There may be times where a designer or developer - whether internally or openly - believes that their discipline is superior and should be considered more important in the process, which is absolute rubbish. But I think Cassie McDaniel put this a little more eloquently in her post on the subject &#8220;Copy, art, typography — and technology — are the bones of a project, where design and development are the joints and skin that connect and hold together the parts.&#8221;</p>
+
+<p>So putting aside egos, there are some common circumstances which we may come across through the course of a working relationship that are going to cause issues in the final outcome and maybe damage the relationship for further projects. One positive I mentioned earlier, that designers who aren&#8217;t that knowledgeable about code are more free from the constraints a developer might feel, can sometimes be a downside too. At times designers I&#8217;ve worked with at least - I&#8217;m sure that it&#8217;s not just me - have sold concepts to a client which, that when it comes time to build aren&#8217;t as simple as the designer thought and have either been under-sold or not given the necessary time to complete. This can be easily solved simply by communication, just speaking to the developer about the proposed solution before the client is sold the concept can mean it can be adjusted to work better for the clients budget or the client can be made aware of possible extra time/money needed for a solution which is best suited to them.</p>
+
+<p>Developers can also be a pain when they choose to speak in too much technical detail about what they want to do or are doing on a project. Learn to talk more human language, just because you know exactly what you mean, it doesn&#8217;t mean the everyone else will - including the designer who needs to understand. Explain things clearly and easily and you&#8217;ll have a much better chance of getting the idea accross or comments on the design understood so something can actually be done about it.</p>
+
+<p>Both parties need to stay up to date as well, developments in the industry, new ideas, tools and techniques. I probably don&#8217;t have to tell that to people reading this post or who saw this talk because clearly you&#8217;re already doing that. But what about the others in your office, is the developer you work with here as well, or are they back in the office because they couldn&#8217;t afford to come or don&#8217;t think they gain that much from conferences. If that&#8217;s the case it&#8217;s then your job to go back to them with all of these new fantastic ideas that you&#8217;ve picked up and expose them to it. After Reasons to be Creative I&#8217;m planning on going back into the office and doing a short talk to tell people about what I&#8217;ve learned there so they can take away some of the things I have.</p>
+
+<h2>Work more closely as a team</h2>
+
+
+<p>The biggest issue I think I have though is when a designer/developer relationship just isn&#8217;t that at all, when it turns into a conveyor belt process where things are just handed on from one person to the next and people have no involvement in anything outside their own discipline. This isn&#8217;t just bad practice but it&#8217;s extremely detrimental to the working relationship and can lead to people feeling completely removed from the project as a whole, resenting the work, and other members of the team. The most effective way to solve this is to include everyone in the process right from the start, having developers in meetings earlier and even with the client can lead to better results and sometimes more creative ideas, as developers know how to bend the technology to solve certain problems, something a designer might not have the technical know-how for. Throughout the process as well I think it&#8217;s important that both the designer and developer remain in touch with each other, talking about what&#8217;s going on both in design and development, it means we have to make ourselves available to each other and to willingly engage at all stages of the project. If there are problems discuss them openly and don&#8217;t be snarky, learn to give <a title="Mark Boulton - It's not working for me #crit" href="http://www.markboulton.co.uk/journal/comments/its-not-working-for-me-crit">better critique and how to take criticism openly</a>.</p>
+
+<p>Another possible solution is to look at your process as a whole, a lot of people are still working to a waterfall like process where maybe now we could be thinking more agile. Working closely together to produce something quickly and iteratively. With the move into a more responsive web as well this can only be a good thing, otherwise it could lead to designers producing multiple versions of each page design when a conversation with a developer or working to create it in the browser as soon as possible would be much more appropriate. For an example you could take a look at <a title="Andy Clarke" href="http://www.stuffandnonsense.co.uk/">Andy Clarke&#8217;s</a> recent <a title="Andy Clarke - Designing for ISO" href="http://www.stuffandnonsense.co.uk/blog/about/designing_for_iso">case study of the agile process</a> he used when rebuilding the new <a title="ISO - International Organization for Standardization" href="http://www.iso.org/iso/home.html">responsive ISO website</a>.</p>
+
+<h2>Why should we bother</h2>
+
+
+<p>Now what I&#8217;ve said is great in theory of course, but it may mean a lot of work for some companies, breaking their current process or some might think, it&#8217;s all well and good but when you&#8217;re trying to earn money there&#8217;s time to worry about relationships. So let me just give you a few reasons why I think this is important.</p>
+
+<p>Getting a developer involved earlier in the process and working more closely as a team throughout the project can lead to people feeling more compassion for the project. A developer understanding why a design decision has been made because they&#8217;ve been involved in the meetings with the client that explained them. Or the designer having a developer there to help with a possible solution to give them technical advice they need at the right time may help them avoid going back over the design again after they&#8217;ve already put a lot of work into it.</p>
+
+<p>If you think of the designer/developer relationship in terms of the partnership between driver and co-driver in a rally team. Both have their own speciality, both would be useless without the other. If they don&#8217;t have a good working relationship, communicate well and use each other to do the best job possible they&#8217;re not going to win anything. They have their individual jobs to do and they prepare and work on them a little separately I&#8217;m sure, but when it comes to the race, they&#8217;re side by side working together to get the best time.</p>
+
+<p>And if they don&#8217;t work well together, there&#8217;s inevitably going to be a crash at some point!</p>
+
+<h2>Hug it out</h2>
+
+
+<p>The relationship between designer and developer can be irritating at times, there can be bad feelings, poor communication or none at all. But without each other we wouldn&#8217;t be able to create the amazing, inspiring websites we do and have fun in the process. We work best as a team when we complement each other and work towards a similar goal, so before you go into your next project, find the developer/designer you&#8217;re working with, and hug it out!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Centered Menus]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/05/16/centered-menus/"/>
+    <updated>2012-05-16T15:49:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/05/16/centered-menus</id>
+    <content type="html"><![CDATA[<p>So a while ago I was tasked with the job of building the fantastic site that is now <a href="http://www.palagioproducts.com/">www.palagioproducts.com</a>. When I first saw the designs I was very happy that it would be a nice straight forward build and I would have no real issues. I&#8217;ve already posted about one of the hurdles I encountered building the site which was the <a title="CSS Pseudo-elements" href="http://www.onishiweb.co.uk/2012/04/css-pseudo-elements/">lovely responsive borders</a> using CSS pseudo elements, yet that wasn&#8217;t the issue that most took me by surprise. The first major issue I encountered was a centrally aligned main menu, as seen here:</p>
+
+<p><a href="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/05/Il-Palagio-main-menu.png"><img class="alignnone size-full wp-image-263" title="Il Palagio main menu" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/05/Il-Palagio-main-menu.png" alt="" width="480" height="auto" /></a></p>
+
+<p>I&#8217;ll be honest I was stumped, at first I thought I should be able to get it working with my already quite extensive knowledge of CSS but for the life of me I wasn&#8217;t getting anywhere. I was very reluctant however to change any of my markup from the standard tidy navigation markup I&#8217;ve become accustomed to writing (below).</p>
+
+<pre><nav>
+    <ul>
+        <li><a href="#">Item 1</a></li>
+        <li><a href="#">Item 2</a></li>
+        <li><a href="#">Item 3</a></li>
+    </ul>
+</nav></pre>
+
+
+<p>So on the hunt I went for a solution as clearly I couldn&#8217;t come across one myself.</p>
+
+<p>And this is what I found, I know a couple of people who&#8217;ve had this issue recently as well and I&#8217;m sorry I&#8217;m only just posting this but you&#8217;re going to kick yourself when you see the next couple of lines:</p>
+
+<pre>
+nav ul {    
+    width: 100%;    
+    text-align: center;
+    padding: 0;
+}
+
+nav ul li { 
+    display: inline;    
+}
+</pre>
+
+
+<p>Here&#8217;s what it produces:</p>
+
+<p><nav id="centered-nav"></p>
+
+<ul>
+    <li><a href="#">Item 1</a></li>
+    <li><a href="#">Item 2</a></li>
+    <li><a href="#">Item 3</a></li>
+</ul>
+
+
+<p></nav></p>
+
+<p>And it really is as <strong>simple</strong> as that!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RWD: Development process]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/05/11/rwd-process/"/>
+    <updated>2012-05-11T11:04:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/05/11/rwd-process</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve wanted to write about responsive web design for some time now but the previous post I was writing became very bloated and out of date very quickly over the process of writing it so, I gave up&#8230;however after seeing a talk last night by <a href="https://twitter.com/#!/amberweinberg">Amber Weinberg</a> at <a title="Points Means Pixels" href="http://www.onishiweb.co.uk/2012/05/points-means-pixels/">Points Brighton</a> about mobile development and the process she uses I thought I would take 5 mins to look at how I&#8217;ve worked when developing responsive sites.</p>
+
+<p>The main point Amber brought up in her talk was whether there is a need for a mobile first approach or a desktop first approach when it comes to development. Now I want to be very clear here that we are both talking about from a development point of view as neither of us are designers. Amber didn&#8217;t touch on design aspects but for me web design should ideally be based on mobile first or more accurately, content first; now I am not in a position at my company where I can tell the designers how to go about their jobs but I feel that if you&#8217;re going to aim for a responsive website the content needs to be king, and by designing mobile first this focuses the design more around the content. But I&#8217;m sure there&#8217;s a lot of opinion on this and as I&#8217;m no designer I will leave that to the rest of them to fight over.</p>
+
+<p>Right, so back to my point, responsive development. When building the <a href="http://www.palagioproducts.com/">Il Palagio</a> website, I was given only desktop designs and one version of how the homepage might look for mobile, so my options here for development were pretty limited, do I build it mobile first or do I start with designs I&#8217;ve been given and work desktop first. Of course I opted for the latter seen as I had a design to work from. So my development starts with a normal desktop build based on fixed widths from the designs I&#8217;m working with, which I then turn fluid in the usual manner (with a max-width). This means I now have a fluid website which will at some point break when you shrink the viewport down.</p>
+
+<p>Now this is the bit where it gets more interesting. At the time I was building this site I came across an <a title="Case study in best practice: Real Life Responsive Design" href="http://boagworld.com/season/2/episode/s2e7/">article on Boagworld</a> which is a transcript of a conversation between <a href="https://twitter.com/#!/boagworld">Paul Boag</a> and <a href="https://twitter.com/#!/beep">Ethan Marcotte</a> from one of the Boagworld Podcasts, it&#8217;s pretty good if somewhat lengthy but there was one question Paul asked Ethan that I think shows a fantastic approach to working with responsive designs from the desktop first:</p>
+
+<blockquote>That’s usually the first thing that I build is I sort of build the desktop view of the site. [&#8230;]
+
+Then what I’ll do is I’ll kind of go back at the top of my style sheets and I’ll actually start going kind of rule by rule and just sort of picking out the properties that actually have to do with layout.
+
+[&#8230;]
+
+Then anything that sort of I think is best fit for the top end of the resolution spectrum, right in line, right after that rule I’ll actually just create a media query and then just sort of drop in all those properties that I think are just widescreen only, for example. Then I’ll basically work my way all the way down the style sheet essentially kind of quarantining out anything that’s layout specific. So by the end, there is nothing outside those media queries that has anything to do with something that wouldn’t be accessible to a small screen. So then I go back over the top of the style sheet and I’ll take all those media queries and basically just consolidate them all down at the bottom.</blockquote>
+
+
+<p>Ethan Marcotte speaking to Paul Boag on his approach to responsive development.</p>
+
+<p>I really like this approach, I take all of my CSS that is layout specific and would only work for a wider viewport and I strip that out and put it in appropriate min-width media queries at the bottom of the styles (or in separate stylesheets that are called after the main). I make sure I spend time looking at which breakpoints each particular part of the layout falls down in the design and strip it out and create this series of media queries (limiting to 3-4 depending on what is breaking where). This way it means that all the original design goes into as many versions of the site before I have to start changing things. And from this point what I&#8217;m left with in the main style is as Ethan says in the post, mostly just typography and elements that will fit into any viewport. Now I&#8217;ll just work with the styles I have and amend the website to work in the main breakpoints that I have set out in the initial &#8220;quarantining&#8221; phase.</p>
+
+<p><em>Also just a quick note on breakpoints, I generally stay away from common breakpoints and device specific sizes because even at the moment there&#8217;s such a varied market it&#8217;s better to make sure a site works at all sizes, not just the ones we know (also that&#8217;s future proof too - go me!).</em></p>
+
+<p>Where possible with my media queries I also try to mainly use min-width media queries so that any styles I write for different queries cascade into one another so nothing I write goes to waste. It isn&#8217;t always possible but I like to try to avoid writing 3-4 min and max-width media queries as essentially it means I&#8217;m writing 3-4 different layouts.</p>
+
+<p>One final point I would like to make is that while I may start with the desktop first my stylesheets are always based mobile up, which I think should be fairly common sense but I feel I had better mention this just in case. The whole point of building the CSS up from mobile first is that you&#8217;re exposing the smallest amount of CSS possible to smaller devices and then adding more as the viewport size builds up (not that it means speed builds up with it but we haven&#8217;t quite got to speed detecting media queries yet), and so are increasing the actual impact on that smaller resolutioned device - something that Andy Clarke has taken into account in the updated 320 and up framework.</p>
+
+<p>So that&#8217;s my current approach to responsive development, I&#8217;m still fairly new to this whole world - so far I only have about 4-5 responsive builds under my belt - so I&#8217;m sure my techniques will develop over time as I take on new ideas and the whole responsive movement matures a bit. I think we&#8217;re all still going to have varying techniques and approaches when it comes to responsive web design and development, and I think mostly our methods will depend a lot on the context in which we&#8217;re working. This approach works well for me as I&#8217;m always going to be served designed aimed at the desktop. If you have any thoughts on this I&#8217;d love to hear what you have to say so feel free to leave a comment or tweet me.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Points Means Pixels]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/05/09/points-means-pixels/"/>
+    <updated>2012-05-09T12:21:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/05/09/points-means-pixels</id>
+    <content type="html"><![CDATA[<p>Yesterday I took the very substantial journey from Oxford all the way down to Brighton to attend the second <a href="http://www.pointsbrighton.co.uk/">Points Brighton</a> mini-conference. I missed the previous one but after this time building the website for the event I decided I could not possibly miss out on it a second time round. Points boasted a diverse line-up of speakers and topics, and at only £5 per ticket with all proceeds going to the fantastic charity <a href="http://remysharp.com/tias-trees/">Tia&#8217;s Trees</a> it was more than worthwhile.</p>
+
+<p>The venue was <a href="http://www.theskiff.org/">The Skiff</a> a small co-working and meeting space in central Brighton, we took up a small area towards the back of the venue and despite it&#8217;s size the limited number of people kept it comfortably busy without feeling like we were squashed in like sardines in a tin.</p>
+
+<p>The first speaker up was <a href="http://twitter.com/#!/amberweinberg">Amber Weinberg</a> talking about mobile development; Amber was a late replacement for <a href="http://twitter.com/#!/paulmist">Paul Mist</a> who couldn&#8217;t make it due to illness. Amber&#8217;s talk looked at how mobile development needs to be more seriously considered now and covered the various routes you could take to tackle such a wide range of devices and viewports; she then took us through a couple of case studies of her recent work, which I enjoyed. Amber also spoke about how she feels mobile-first development is quite possibly a bad choice in that she is normally served with only desktop based designs and has to work with the design herself to produce the mobile versions. I kind of agree with her on this point but there are some things I would like to add to her approach, but I&#8217;ll save that for another post&#8230;</p>
+
+<p>The next speaker was <a href="http://twitter.com/#!/jamesslock">James Seymour-Lock</a> with a talk on achieving your clients goals. I&#8217;m working with clients on a day to day basis and have been recently inspired by Paul Boag&#8217;s book and podcast on the subject of client centric design so was particularly interested in seeing James&#8217; talk. James spoke about more carefully defining the clients goals as invariably the client has too many things they want their website to achieve (or too few in my experience) and focusing them on the main objectives. And also building a relationship with the client and getting to know their personality, how many of us can say that our client has ever challenged us to handstand competition over Skype!?</p>
+
+<p>The third speaker of the night was <a href="http://www.bozboz.co.uk/">Krystian Szastok</a>, and a hush came over the room as he introduced his talk about SEO and in particular the principle of factor sparsity or the 80/20 rule. Now I think this was one of the hidden gems of the night, for what at first could seem a fairly dull subject to most Krystian proceeded to make into an interesting talk covering the real aspects of good SEO. The 80/20 rule was first applied to off and on site SEO, 80% of your search ranking is made up from the actual popularity of your site, so off-site links and directory listings are important. Of the 20% on site optimisation, content is key, if your website is about Oxfordshire Web Development, those 3 words need to appear in the content! Krystian also covered things like good HTML Titles, meta descriptions (not necessarily unique to each page but if possible this should be the case) and good alt tags for images (something like image1.jpg just doesn&#8217;t cut it).</p>
+
+<p>The final talk by <a href="http://twitter.com/#!/Pomennedy">David Pomfret</a> was on the subject of typography. Now this is a bit of a hard subject for me as I&#8217;m pants at it (this site was a perfect example of that) so I was keen to hear what he had to say. David talked about the three main points when working with type - well the three main points that can fit into a 20 minute talk anyway - these were chose, use, and love. The main focus was on choosing the right type for the job, making sure it reflects the right personality, is readable (at all sizes), and contains everything you need (glyphs, drop caps, punctuation etc). When using your typography  David went on to say focus again on readability, using a good baseline to provide solid structure and working with a grid-system to produce a solid layout will all aid the typography you&#8217;ve chosen. And finally love typography, look at print - where it all started - and take inspiration from how they used typography to the fullest.</p>
+
+<p>Overall Points Brighton was a fantastic event, it was well curated, in a suitable venue and provided not only fantastic talks but a really relaxed atmosphere to be able to talk with like-minded individuals over a beer (which were free thanks to some fantastic sponsors). Not forgetting the fantastic raffle with a ton of prizes donated by some more very kind sponsors which consisted of books and t-shirts, with the grand prize of the stunning full set of A Book Apart books. All proceeds from the tickets and the raffle went toward the charity Tia&#8217;s Trees and I think in the night Mike mentioned we had raised over £300! Very much looking forward to the next one, and sooner rather than later please!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New development setup]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/04/19/development-setup/"/>
+    <updated>2012-04-19T16:30:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/04/19/development-setup</id>
+    <content type="html"><![CDATA[<p>Recently at One we&#8217;ve been considering a more collaborative way of working and this has led to most of us looking at the tools we use and how we develop. In this post I just want to quickly run through how I&#8217;ve recently changed the way I work and what tools and technologies I&#8217;ve started to use.</p>
+
+<h2>My Mac setup</h2>
+
+
+<p>At home I use a 13&#8221; MacBook Pro and have found myself really enjoying using the multiple desktops and gestures on the trackpad more and more. So because of this in the office I now have removed my second monitor and am using the iMac in the same way as the MacBook at home, <del datetime="2012-04-19T16:16:02+00:00">all I need now is a trackpad at work (you never know they may buy me one if I ask nicely)</del> I asked nicely and now I do have one which is making it a lot smoother.</p>
+
+<p>I&#8217;ve found this style of setup really handy and it allows me to have some apps at full screen like my text editor and mail and then easily get between them with a simple four-finger swipe on the trackpad. At the office this also means I can put all my mail and twitter etc off on another desktop so I&#8217;m no longer distracted quite as often.</p>
+
+<h2>MAMP</h2>
+
+
+<p>Because we have recently moved to local development I&#8217;ve needed to set up a server environment on my Mac, I&#8217;ve tried both XAMP and MAMP but found the latter the easier to set up (although the issues I had with XAMP were probably more user related than software to be honest).</p>
+
+<p>Also with the help of Clinton (<a href="http://twitter.com/iblamefish">@iblamefish</a>) I&#8217;ve set up my mac to give the development sites I&#8217;m working on local domains (in the form of http://mysite.dev), here&#8217;s how I did it (which is basically how Clinton told me too but I thought I&#8217;d share it):</p>
+
+<ol>
+    <li>First, personally I have set up a separate folder in the MAMP directory (/Applications/MAMP/sites/) to store all the local dev sites I&#8217;ll be working on. You can of course just use the htdocs folder by default but having this folder setup separately means I can use htdocs for little jobs that I&#8217;m happy accessing via localhost/site</li>
+    <li>Next edit the Apache config file at /Applications/MAMP/conf/apache/httpd.conf and uncomment the line which includes the &#8220;extra/httpd-vhosts.conf&#8221; file (line 525).</li>
+    <li>Set up hosts for the site you&#8217;re creating in /Applications/MAMP/config/apache/extra/httpd-vhosts.conf as below:
+<pre>
+<VirtualHost *:80>
+    ServerName mysite.dev
+    DocumentRoot /Applications/MAMP/sites/mysite.dev/
+</VirtualHost>
+</pre>
+    </li>
+    <li>Edit the local hosts file to tell your computer where mysite.dev is either logged in as superuser or via sudo (e.g. sudo vi /etc/hosts) and add in the line: 127.0.0.1  mysite.dev</li>
+    <li>Restart Apache and then go to http://mysite.dev/ and you&#8217;re done.</li>
+</ol>
+
+
+
+
+<h2>Sublime Text 2</h2>
+
+
+<p>I&#8217;ve only recently changed over to using Sublime Text 2 as my main editor and have found the transition fantastic and the tools available and excellent for how I code. Since I moved to a Mac from PC I&#8217;ve been using TextWrangler as it was a free editor and had SFTP (which for a long time in the office we&#8217;ve needed for all dev work). Since we&#8217;ve made the recent choice to move to local development it&#8217;s been less important for me to have SFTP and therefore I&#8217;ve had more chance to trial Sublime and it&#8217;s made life significantly easier.</p>
+
+<p>Sublime for me is a nice compromise to using Vim, it may not be quite as powerful but the learning curve for Vim for me was a bit too steep and became time consuming when trying to work on quick projects. Sublime also is very expandable with a vast array of plugins that I&#8217;ve been making good use of, here&#8217;s a list of the plugins I have installed at the moment, most of which I found in <a href="http://net.tutsplus.com/tutorials/tools-and-tips/essential-sublime-text-2-plugins-and-extensions/">this article from Nettuts</a>:</p>
+
+<ul>
+    <li><a href="http://wbond.net/sublime_packages/package_control">Package control</a> - install this first as it makes installing packages ridiculously easy</li>
+    <li>SFTP</li>
+    <li>Zen coding</li>
+    <li>Git</li>
+    <li>LESS</li>
+    <li>Wordpress</li>
+    <li>Search Wordpress codex</li>
+    <li>jQuery functions</li>
+    <li>Prefxr</li>
+</ul>
+
+
+
+
+<h2>LESS</h2>
+
+
+<p>Since the beginning of the year I&#8217;ve been interested in learning more about LESS and introducing it to my dev setup. I learned a lot of the basics thanks to a brilliant <a href="http://www.12devsofxmas.co.uk/2011/12/less/">tutorial on the 12 Devs of Xmas site by Anthony Killeen</a>, but I really wanted to be using it on a more frequent basis to be able to get the most out of it. Unfortunately as I&#8217;m a part of a development team this is not something I can simply choose to do without it being discussed first and getting the unanimous nod from both the development team and our directors. Fortunately though it was a fairly easy decision to make as we all agreed that by using LESS we could become more productive and efficient producing sites as a team and with that getting the go-ahead from the directors wasn&#8217;t too hard.</p>
+
+<p>So with the decision taken that we will where possible begin to develop in LESS I&#8217;ve began working on any new sites I build with LESS making use of things like the nested rules and variables etc. But what LESS has enabled us to do as a development team is to modularise our CSS into various mixins and build up a library of useful blocks of CSS that we can use on a variety of projects, at the moment what we have is fairly limited but over time as we build more and more in LESS we&#8217;ll be able to grow the library as we continue to build new sites.</p>
+
+<h2>Codekit</h2>
+
+
+<p>Of course working with LESS means that you need something to compile .less files into CSS. The LESS app is perfectly capable of this and I was initially using it when I started, however, a colleague pointed me towards Codekit (from the same people who make LESS.app) and I&#8217;ve found it to be much more powerful and makes your workflow so much smoother overall. The combination of LESS compiling, JS compile and concatenation, live browser reloading, and image optimisation all in one app is just mind-blowing! Also with functionality to compile SASS and Stylus files, Coffeescript and HAML/Jade it&#8217;s extremely useful for any development setup you have.</p>
+
+<p>My favourite part of Codekit though has to be the project and framework management. The ability to create frameworks of LESS files (as mentioned), store them in one central location and include them in all of my projects using Codekit is incredible. It means I have the power to create a series of update-able sets of code libraries, store them in one single place and have them update across all of my projects.</p>
+
+<p>Codekit&#8217;s still in beta at the moment and plan to release at some point next month to the app store with I think about a $9.99 price tag which for the functionality you receive is worth every penny!</p>
+
+<h2>Git</h2>
+
+
+<p>Finally I just want to touch quickly on Git/Github. I&#8217;ve never been part of a big coding company so version control has never really come up, but because of the usefulness of Github and the ease of use of Git I thought that I&#8217;d better add it to my repository. So I&#8217;m still getting used to using it but so far for storing several things that I&#8217;m working on I&#8217;ve found Git quite easy to get along with and with the use of Github I&#8217;ve been able to share some of the things I&#8217;ve been doing with colleagues. If you want to check out what I&#8217;ve done so far head over to <a href="http://github.com/onishiweb">http://github.com/onishiweb</a> and take a look, but be warned there&#8217;s really nothing that interesting over there at the moment.</p>
+
+<p>So there we go, a brief look at the new setup I&#8217;ve been using and how it&#8217;s helped make me a lot more efficient and productive, would be great to hear how it compares to yours or whether you have any advice for other tools that I might find useful, so please comment or drop me a tweet! Cheers.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CSS Pseudo-elements]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/04/11/css-pseudo-elements/"/>
+    <updated>2012-04-11T13:26:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/04/11/css-pseudo-elements</id>
+    <content type="html"><![CDATA[<p>After reading an article by <a href="http://twitter.com/#!/anna_debenham">Anna Debenham</a> on the <a href="http://maban.co.uk/68">nth-of-type pseudo element</a> it got me thinking about a recent client site in which the :before and :after pseudo-elements came in extremely handy. So I thought I&#8217;d share with you quickly what I did and give you an example similar to Anna&#8217;s of where pseudo-selectors can be very useful in responsive web development.</p>
+
+<p>So the website in question is the <em>stunning</em> online store I built responsively for Sting and Trudie Styler&#8217;s Tuscany wine, honey and olive oil; <a href="http://www.palagioproducts.com">www.palagioproducts.com</a>. This was pretty much the first responsive website that One had decided to build and so it was a bit of a challenge from the outset, but one element of the design became quite tricky, the element in question being the fancy borders that sit at the top and bottom of the website.</p>
+
+<p><img src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/04/ll-palagio-border.jpg" alt="" title="ll-palagio-border" class="alignnone size-full wp-image-205" /></p>
+
+<p>Now normally in a fixed width site these could be easily produced using an image in the background, however as this was a responsive site, we needed the borders and the edgings to adjust depending on the width of the viewport and still retain their proportions, and this is where :before and :after came in.</p>
+
+<p>Here&#8217;s how it was coded and an example on the page below (change the size of the browser and you should see the border expand and contract with the edging&#8217;s staying in place at the left and right sides of the border).</p>
+
+<!-- Code example and demo -->
+
+
+
+
+<div id="palagio-divider"></div>
+
+
+
+
+<pre>
+.divider
+{
+    clear: left;
+    position: relative;
+    width: 90%;
+    height: 34px;
+    margin: 0 5%;
+    background: url(images/common/divider-background.png) top center no-repeat;
+}
+
+.divider:after
+{
+    content: "";
+    width: 65px;
+    height: 34px;
+    display: block;
+    background: url(images/common/divider-left.png) top left no-repeat;
+    position: absolute;
+    top: 0px;
+    left: -6%;
+}
+
+.divider:before
+{
+    content: "";
+    width: 65px;
+    height: 34px;
+    display: block;
+    background: url(images/common/divider-right.png) top left no-repeat;
+    position: absolute;
+    top: 0px;
+    right: -6%;
+}
+</pre>
+
+
+<p>So there you go, a really useful application of the :before and :after pseudo-elements for Responsive web development. Enjoy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[OGN: more talk about education]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/01/22/ogn-education/"/>
+    <updated>2012-01-22T18:39:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/01/22/ogn-education</id>
+    <content type="html"><![CDATA[<p>In my <a title="Web and Digital Education" href="http://www.onishiweb.co.uk/2012/01/web-and-digital-education/">last post</a> I spoke about the things I&#8217;ve been doing in order to either help with education or bring more awareness to people about the current state of web education and the talk I gave at Oxford Geek Night was particularly aimed at web design education within Universities. OGN is held fairly regularly and as well as two main keynotes of 15 mins each they also have four 5-minute microslots which can be volunteered for, which is what I did.</p>
+
+<p>Having only ever previously spoken at a small Pecha Kucha night at Science Oxford to a small room of geeks it was a bit of a jump to the relatively large room above the Jericho Tavern jam-packed full of geeks! As this was pretty much the first time I&#8217;d done something like this I have to admit nerves got the better of me and I ended up stumbling through the 5-minute presentation I&#8217;d prepared with limited success, but fortunately I think my message got through just about.</p>
+
+<p>As much as the nerves didn&#8217;t help I could have probably done a bit more preparation in order to make sure the talk felt more natural, I practiced a few times but as I was still trying to sort out the content it didn&#8217;t really lead to a very smooth talk. I also could have done a lot better in the way I kept my notes with me as I used my iPhone on the stage, which when I actually looked to it for help had locked and I had to spend a nervous second unlocking it and trying to get myself back on track. So overall not a great start to presenting but I&#8217;m hoping that I can learn from this and keep practicing and looking for some smaller speaking gigs to get some practice in.</p>
+
+<p>It wasn&#8217;t all negative though, after the last of the talks I stayed in the bar for a bit with friends and did have a fair few people talk to me about what I presented on and many people were very enthusiastic about getting involved with education where they could and I got a lot of congratulations from the friends that were there so it&#8217;s definitely not something I&#8217;ll be giving up trying in the near future.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Web and Digital Education]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/01/12/web-and-digital-education/"/>
+    <updated>2012-01-12T21:00:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/01/12/web-and-digital-education</id>
+    <content type="html"><![CDATA[<p>Some months ago, in fact one of my first serious posts on here, I wrote about Education in the web industry from a University point of view. Where I spoke about my time at university and how I felt the course was limited and really didn&#8217;t provide me with much worthwhile education towards what I would ultimately choose as a career. Since then a lot has happened and I just want to update you on my thoughts about web education (as well as digital education in general) and what I&#8217;ve been doing over the last few months.</p>
+
+<p>I attended a Update conference in September last year (you may have read my <a title="Let the sunshine in – Update Conference 2011" href="http://www.onishiweb.co.uk/2011/09/let-the-sunshine-in-update-conference-2011/">review of the conference</a>) where I saw a fantastic talk by Anna Debenham on the Digital Native and the state of digital education in our schools. Since then I have been on a bit of a mission to do what I can to help this cause and also see how I can get involved with Universities and how they teach web design and development. So here&#8217;s some of the things I&#8217;ve been getting up to lately and some information on how you too can get involved too, because essentially that&#8217;s the only thing that&#8217;s going to help improve things, we can&#8217;t sit back and expect things to just fix themselves.</p>
+
+<p>One of the first things I did was become a <a title="STEM Ambassador" href="http://www.stemnet.org.uk/content/ambassadors/whoareambassadors">STEM Ambassador</a>. This is a voluntary programme which aims to give school children a better understanding and introductions into Science, Technology, Engineering, and Maths. So far I have gone through the training day and had my CRB check done (which was a simple process involving STEMNET and your local STEM organiser) and this year I will be starting to participate in ambassador activities with my aim being to do a session on coding the web which I hope will go down well.</p>
+
+<p>I also got back in touch with my University (Oxford Brookes). I attempted to do so through email with a lecturer there but unfortunately I had no reply, however, when I moaned profusely about this on Twitter, a friend Alun Rowe got in touch about a lecture he was about to give to the web design students there and asked if I would like to tag along. This worked out brilliantly and I managed to speak to a (different) lecturer at the Uni and I am now in contact with them and hoping to be able to do something to help with their courses or get involved with the Computing Society. I also spoke to Alun a bit about what he&#8217;s been doing with the Uni and it turns out he has been curating the Web Design Masters that they were running and now regularly gives guest lectures to the web design students which was fantastic news. I think if the industry is to improve and keep employing new people we need to get involved with the places they are coming from as professionals as universities unfortunately don&#8217;t have those people at their disposable without people offering. Also while I was there I heard that Opera are also getting involved at Brookes with Bruce Lawson giving a lecture there later in the semester, which I unfortunately missed due to work commitments. I think this goes to show that you just have to keep trying and talking to people and you never know what might turn up.</p>
+
+<p>Speaking of Opera, I also got in touch with Chris Mills on Alun&#8217;s recommendation about getting involved in the <a href="http://www.opera.com/company/education/curriculum/">Web Standards Curriculum</a>, he very kindly took some time out to write me back and pointed me towards joining the <a href="http://www.w3.org/community/webed/">W3C&#8217;s Web Education Community group</a> which I have no joined as a member and hope to gain something from that as well.</p>
+
+<p>Lastly I spoke at the <a href="http://oxford.geeknights.net/2011/nov-17th/">last Oxford Geek Night</a> on the subject of web education in universities. Although it was only a 5 minute spot (and I was a particularly rubbish speaker - I&#8217;ll blog about it soon), I got a lot of positive feedback from people at the evening and a lot of people spoke to me about what they are doing and that it&#8217;s definitely a good thing to be talking about which I appreciated a lot. Unfortunately I haven&#8217;t been able to do much since that night and haven&#8217;t heard much from the people there but you never know what might happen&#8230;new year and all that.</p>
+
+<p>So that&#8217;s about it for what I&#8217;ve been up to of late. I hope to be doing more this year especially in regards to STEM and the Web Education community. Something I&#8217;ve heard about recently through some friends is <a href="http://www.codecademy.com/">Codeacademy</a>. From what I&#8217;ve heard of this it&#8217;s a really well thought out introduction to coding in JavaScript and a very good initiative. At first look it seems really easy to interact with and will hopefully get a lot more people involved with coding. Something else that was announced this week is the fantastic news that the government, as of September will be replacing the droll ICT lessons of the last decade with <strong>compulsory </strong>computer science lessons! Now I don&#8217;t know about you but I think this is a major win for our education system. It&#8217;s time for education to move on and as technology is becoming a bigger part of our everyday lives I think it&#8217;s important that children are taught not only how to use a system but how it works and how to make things with it. There are some people who are going to say that they possibly shouldn&#8217;t be compulsory but I would argue that it is as much if not more important than any of the GCSE&#8217;s I took at school (namely RE, History, and Geography - which were compulsory in the first few years of secondary school).</p>
+
+<p>One last thing to mention is that recently I learned that Anna Debenham, pretty much the sole catalyst for most of my actions over the last few months, has stopped speaking at conferences which I think is massive loss. She&#8217;s an extremely talented individual and a lovely person (who even took some time out to talk to me at the Update conference after party), who I&#8217;ve seen talk a couple of times now and at both I felt she was easily one of the best speakers at the events. I really hope this is only temporary and at some point she will start speaking again because it would be a shame to lose such a talented speaker from the conference circuit.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Let the sunshine in - Update Conference 2011]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/09/06/let-the-sunshine-in/"/>
+    <updated>2011-09-06T22:19:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/09/06/let-the-sunshine-in</id>
+    <content type="html"><![CDATA[<p>There&#8217;s so much I could say about the last 3 days I&#8217;ve experienced in Brighton. I have to say experienced because I didn&#8217;t just go to any town, to any conference. I went to Brighton for <a href="http://updateconf.com/" target="_blank">Update 2011</a>: The Human Touch - iOS &amp; Beyond.</p>
+
+<p>Now I&#8217;m a big advocate of conferences and I enjoy not only the opportunity to learn new stuff but the chance to network and meet new people. I can safely say I have never met so many amazing people in such a short time ever. I&#8217;ve also not been to a conference that ran as smoothly and had so much going on to compliment the conference, not forgetting the high class of speakers and workshops as well.</p>
+
+<h2>Treated like Royalty</h2>
+
+
+<p>The experience started with a trip to the Brighton Royal Pavilion for a pre-conference banquet and tour of the Pavilion, this place was ridiculous! From Asian style décor which consisted of expensive wood made to look like Bamboo to elegant statues with female heads on male bodies (and vice-versa) as well as a mechanism in their shoulders which made them the oldest bobble-heads I&#8217;ve ever laid eyes on! The meal was fantastic with plenty of banter between the web devs and musicians at our table and ended with us having both of our pineapple&#8217;s from the centerpiece sliced up by the waitress and I.</p>
+
+<h2>A fresh take on conferences</h2>
+
+
+<p>On to the conference day itself and it began with much needed coffee and meeting lots more new people in the bar before the start of proceedings. Obviously I have to mention the extremely interesting opening to the conference itself&#8230;Mr Aral Balkan singing his heart out with a live band welcoming us all to the day - now that is how a conference should start!</p>
+
+<p>I&#8217;m going to try and keep this relatively short so won&#8217;t go through all the talks but there wasn&#8217;t a single one that disappointed. Matt Gemmell (Unusability), Sarah Parmenter (Designing for iOS), Jeremy Keith (One Web), Joachin Bondo (Going Beyond Delicious) and Cennydd Bowles (The Things of the Future) all gave some great inspiring and informative talks and I took quite a lot from them all. There were also music acts dotted throughout the day, the highlights being Ithaca Audio who live <a href="http://vimeo.com/25004046" target="_blank">mixed video clips</a> and a performance using the Microsoft Kinect to great effect. I have to also mention quickly the interview Aral did with Ronald Wayne the 3rd founder of Apple who was exceptional to listen to, a very inspiring and interesting man and I think Aral did a great job in bringing him to the conference and the interview itself.</p>
+
+<p>Earlier this year I went to a Geek Ninja Battle Night which Aral organised and I was glad to see 2 of them during the conference day both equally great but completely contrasting which I think showed how great a tool it is. The first on platforms did the word &#8220;Battle&#8221; in the title very proud as 2 extremely passionate people argued they&#8217;re points superbly, however I have to agree with Seb Lee-Delisle who mentioned that he sits on the fence and that there&#8217;s a time and a place for both. The second on tools, technologies and design challenges was more collaborative but some good opinions were expressed and all that contributed gave great advice and examples of how to approach a variety of problems and what really winds them up!</p>
+
+<h2>Top notch stuff</h2>
+
+
+<p>So there are 3 talks I haven&#8217;t mentioned and they were the ones that I thought were fantastically inspiring, entertaining, educational and deeply concerning. Seb Lee-Delisle did a live coding example of how to make an Angry Birds clone using Corona and presented in such a great fashion that I was engaged throughout and left me wanting to go play with the platform. Relly Annett-Baker did another of my favourite talks entitled &#8220;Ass over Tit&#8221; which I think sums up her personality and style of presenting brilliantly. She was great to watch and spoke lots of truths about how we do things backwards as devs and tend to leave the most important things till pretty much last. She also made me very jealous throughout her talk speaking of her recent trips to CERN - oh and not forgetting Italy&#8217;s &#8220;Physics Bucket&#8221;.</p>
+
+<p>My favourite talk by far however was by the very young and extremely wise for her age Anna Debenham, talking about how incredibly rubbish our schools are at delivering even the basic knowledge about IT (the internet is not owned by Microsoft!). The standard of education about the web as well is so poor all that&#8217;s taught most of the time is the &#8220;Save as web page&#8221; button in Word or Powerpoint, which just makes you angry! Her talk resonated with me also because I&#8217;m not long out of University and have for the last year or so been becoming more concerned about the lack of good education and foundation knowledge that is delivered in degree courses. However she pointed out that it goes much further than this and that in an extremely modern and digital world children are just not getting enough good education in how they can be a part of it. I was also very lucky to speak to Anna later that evening about what she does to try and improve this aspect of education given to children but it seems like she&#8217;s fighting a tough battle as even when she can get into a school to give presentations and workshops she&#8217;s extremely limited by what the schools will allow to go on their networks, something as simple as having an up-to-date browser is like climbing Everest it seems.</p>
+
+<h2>A great finish</h2>
+
+
+<p>Anyway getting back to the rest of the conference, it goes without saying, I&#8217;ve been thoroughly inspired once again and I&#8217;ve got some new found motivation for my work and for things that I want to do thanks to the speakers and happenings during the conference day. Of course no conference would be complete without a boozy after-party and once again Update didn&#8217;t disappoint with A Night at the Museum! Yep that&#8217;s correct, Aral only went and hired a flipping museum for us all to go have fun in. I don&#8217;t really think I can say much more than that other than I met some fantastic people again and had some interesting talks about the art and exhibitions in the museum.</p>
+
+<h2>Workshopping</h2>
+
+
+<p>I feel pretty guilty as due to the partying the inevitable lack of sleep meant I wasn&#8217;t at my best today for Drew&#8217;s workshop and also still being fairly new to iOS development I wasn&#8217;t able to complete many of the exercises without jumping ahead and looking at the solutions. Drew however encouraged me to do so and I managed to take a lot from the day and given a few more months working on it I would be confident I&#8217;d be able to get a lot out of the things I learned today thanks to Drew.</p>
+
+<p>So there you have it, these last few days have been an incredible experience and certainly one of the best conferences I&#8217;ve attended so far. Aral&#8217;s experience as a conference speaker I think allowed him to put together something really interesting and unlike any others that have gone before. The combination of speakers, live coding, Geek Ninja battles, music acts and also the show and tell stage which I&#8217;ve not even mentioned here was certainly a winning formula and topped off with the offer of a range of workshops from leading industry professionals and some amazing social events I can safely say I will not be forgetting this for a long, long time.</p>
+
+<p>Thanks Aral and the Update Team who made this all possible.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Riding the Apple Cart]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/08/07/riding-the-apple-cart/"/>
+    <updated>2011-08-07T21:20:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/08/07/riding-the-apple-cart</id>
+    <content type="html"><![CDATA[<p>Well here I am sat on the train waiting to head back home after what has been an amazing day out at the first ever Apple Cart festival in Victoria Park.</p>
+
+<p>I thought I&#8217;d write a little bit about what I&#8217;ve seen, from the good stuff to the not so good and the extremely weird! It&#8217;s been a bit of a long day so bare with me if I ramble a little, I&#8217;ve had a few beers too but hopefully this will all make sense&#8230;</p>
+
+<h2>The highlights</h2>
+
+
+<p>Happy days being sung in German (can&#8217;t remember exactly who did this, please help!)
+Comedian Mark Steel getting heckled by a 4 year old
+Huddling under a very pretty lady&#8217;s umbrella as the rain started coming down
+Churros!
+Jeremiah weed bourbon ale
+Gilles Peterson dancing away merrily behind his decks
+And of course the amazing Tim Minchin</p>
+
+<p><img class="size-full wp-image-117 alignnone" title="Churros" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/08/Photo-07-08-2011-15-09-40.jpeg" alt="Amazing Churros" /></p>
+
+<h2>The lowlights</h2>
+
+
+<p>My back getting soaked through from the rain coming down off a tent
+Not getting the number of the girl I joined under her umbrella
+Badly drawn boy (unfortunately - I will explain)
+The shortness of Tim&#8217;s set (45 mins is not enough haha)</p>
+
+<h2>The weird</h2>
+
+
+<p>A man dressed in a sparkling leotard singing very strange songs in the cabaret tent
+The urinals
+The spanking station!</p>
+
+<p>I first heard about the Apple Cart Festival after Tim Minchin tweeted that he would be headlining; so almost instantly I jumped online and got myself one and so did a couple of friends Andy and Zanny, who I don&#8217;t get to see enough so it was great to spend some time with them today.</p>
+
+<p>We got there relatively early and checked out what was on offer with the handy map and schedule while relaxing with a Pimms outside the Pimms bus - the festival guide also had a great Don&#8217;t Miss! list which highlighted things to be on the look out for, great little addition at a small festival with a lot of new acts. There were 5 stages in total, the main stage, a cabaret tent, folk tent, comedy stage and the magic tent, as well as a lot of food stands around the village green, a penguin books tent/stall and the art car boot fair (home of the spanking station).</p>
+
+<h2>All about the comedy</h2>
+
+
+<p>To be honest the music line up wasn&#8217;t amazing (personal opinion obviously, it seemed to generate a good crowd for most of the day), the top acts on the main stage were The Magic Numbers (early afternoon oddly), Badly Drawn Boy and Tim Minchin. So we spent most of our time in the Comedy tent which always seemed pretty packed. There were some great acts, some which I&#8217;ve seen around on TV and a couple of new and very funny acts. The stand-out stand-ups were Jon Richardson, Doc Brown and Mark Steel but other acts like Paul Chowdry and Kevin Eldon are worth a mention.</p>
+
+<p>At one point at the Comedy tent we were stood on the edge of the tent when the most almighty rain shower hit during Jon Richardson&#8217;s set - cue me befriending the hot girl with the umbrella - at which point Jon asked if people could come inside a bit more but a few very nice people sitting down jumped up and made everyone else do so too and suddenly the tent was rammed (I still got soaked as the water ran off the awning down my back on my way in). Another highlight in the comedy tent was during Mark Steel&#8217;s set, whilst pouring down with rain a lady came and collected her 2 children to take them out because of the rather fruitful language Mark was using (there were parental guidance warnings so nothing to complain about) and after Mark had commented on probably swearing too much a 4 year old jumped up in the crowd shouting &#8220;You&#8217;re a very naughty man!&#8221;. As funny as the exchange was between Mark and the 4 year old it went on a little long (as most kids do) but Mark&#8217;s handled it brilliantly and despite trying to curtail his language a little he failed pretty badly for the rest of the set.</p>
+
+<h3>&#8220;The Tim Minchin of rap&#8221;!</h3>
+
+
+<p>Must also mention Doc Brown who in the festival guide was touted as &#8220;The Tim Minchin of rap&#8221; and he certainly didn&#8217;t disappoint, a very funny comedian and the rap interludes complimented his stand-up superbly and finishing by incorporating the crowd as his &#8220;hype-men&#8221; was a great end to the set.</p>
+
+<h2>Badly Mannered Boy</h2>
+
+
+<p>The only lowlight I&#8217;ll mention (apart from getting soaked), was the impression Badly Drawn Boy (Damon Gough) gave me after I got to the main stage towards the end of his set. Now maybe I missed something and really he was quite good and funny and whatnot but it seemed as if he really didn&#8217;t give a shit about being there. He seemed rather arrogant and didn&#8217;t really care too much about what people thought about it, half starting songs and then saying &#8220;actually I can&#8217;t remember how that one starts&#8230;I&#8217;ll do something else&#8221; and carrying on well over time and eventually having to be told to leave the stage (he still did 2 more songs). Now I&#8217;m happy to hold my hands up and say that I missed the point and had I been there for the whole set I&#8217;d have a completely different opinion but his attitude left me feeling a little disappointed as I really do like his music.</p>
+
+<p><img class="alignnone size-full wp-image-118" title="Tim on a speaker" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/08/tim-e1312835090392.jpg" alt="Tim Minchin stood on a speaker on the main stage of the Apple Cart festival" /></p>
+
+<p>Finally I&#8217;ll give a little mention to a small act called Tim Minchin (and his band Brad and Pete). Nothing new from Tim this time, he played some of the classics: Rock N Roll Nerd, Prejudice, You Grew On Me; and a couple of the newer ones from the last year or so: The Good Book, Cont and the opening to CHEESE as well as finishing as always with Darkside. He opted to keep the chat short and to the point  and play more songs which giving the short time slot was welcomed by the audience although I was a bit disappointed to hear him mention a bit on grammar he was going to do. Him and the band did however throw in a little bit at the end of The Good Book, playing a coda for the audience to dance to which was good fun, so overall another great performance from Tim as usual!</p>
+
+<p>So that&#8217;s it from me, I managed to get back to Marylebone in time for the last fast train home so not a bad one after all, there&#8217;s a few more of my pics from the day in the slideshow below, hope you enjoy them and thanks for reading.</p>
+
+<object width="479" height="359"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fonishionline%2Fsets%2F72157627384837958%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fonishionline%2Fsets%2F72157627384837958%2F&amp;set_id=72157627384837958&amp;jump_to=" /><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=104087" /><param name="allowFullScreen" value="true" /><embed type="application/x-shockwave-flash" width="479" height="359" src="http://www.flickr.com/apps/slideshow/show.swf?v=104087" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fonishionline%2Fsets%2F72157627384837958%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fonishionline%2Fsets%2F72157627384837958%2F&amp;set_id=72157627384837958&amp;jump_to=" allowfullscreen="true"></embed></object>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[iOS Tutorial: Hello, World!]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/06/18/ios-tutorial/"/>
+    <updated>2011-06-18T16:33:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/06/18/ios-tutorial</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve recently taken it upon myself to get into iOS development. As the owner of both an iPhone and an iPad I use iOS on a daily basis and as that&#8217;s sparked an interest for me to start developing for the devices as well, just as using the internet made me want to build websites. So after finally getting my hands on a MacBook Pro (lovely machine that it is), I&#8217;ve been able to delve into Xcode and start creating.</p>
+
+<p>As a web developer of a couple of years experience and having spent 4 years at University learning to program in things like C, C++ and Delphi I have enough of an understanding of basic programming and development environments so at least I have a good base to work from when it comes to learning to develop for iOS. Also as someone who is going to be following a lot of tutorials and reading books aplenty over the next few months I thought it would be good to document my progress and also try and write some tutorials from my perspective as a newbie iOS developer.</p>
+
+<p>So I wrote the tutorial over a few nights last week and it&#8217;s now up on the brilliant <a href="http://ios-blog.co.uk/">iPhone application development</a> blog. Now that&#8217;s all done though it&#8217;s back to the books and online tutorials so that I can get myself on track to putting together some proper iOS apps in the near future. In the meantime I&#8217;ll leave you with a few of the resources that I&#8217;ve been using to learn iOS development and am continuing to read on almost a nightly basis.</p>
+
+<p>The book: Beginning iPhone 4 Development, by Dave Mark, Jack Nutting and Jeff LaMarche.
+The book I want: The iPhone Developer&#8217;s Cookbook (iOS 3 version as recommended by Brendan Dawes)
+The websites: <a href="http://mobile.tutsplus.com/" target="_blank">Mobiletuts+</a>, <a href="http://membership.thinkvitamin.com/" target="_blank">Think Vitamin Membership</a> and <a href="http://iphonedevelopment.blogspot.com/" target="_blank">Jeff LaMarche&#8217;s iPhone Development Blog</a>.
+I&#8217;m also going to be attending <a href="http://updateconf.com" target="_blank">Update Conference</a> in September which is aimed at all things mobile including iOS and as well as a conference there are some workshops going on from some of the top developers/designers around, one of which I&#8217;ll be attending.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20 seconds is not long at all]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/06/05/20-seconds-isnt-long/"/>
+    <updated>2011-06-05T19:42:00+01:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/06/05/20-seconds-isnt-long</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve been wanting to venture into public speaking for some time now and recently thanks to Science Oxford Live&#8217;s PechaKucha night I was giving an opportunity to break my public speaking cherry as it were.</p>
+
+<h2>PechaKucha</h2>
+
+
+<p>PechaKucha is a presentation style devised in Japan. Based on a simple concept of 20 images, 20 seconds for each. It keeps the presentation going quickly, very quickly as I found out. You can go to <a href="http://www.pecha-kucha.org/">pecha-kucha.org</a> for more details and to see some examples.</p>
+
+<p>This was the second PechaKucha night Science Oxford had put on and seeing @iblamefish speak at the last one I thought I&#8217;d give it a try as a bit of an entry-point into public speaking. The call for talks was quite generic and a relation to science would be a bonus, so I went for something I&#8217;m pretty passionate about and got lucky as the link to science is rather strong. I&#8217;ve been interested in Formula One for as long as I can remember and as the sport is constantly pushing the boundaries of science to go as quick as possible I thought it was a good choice.</p>
+
+<p>So with topic decided I needed to do a little bit more research and try and get together a presentation on the science bits behind the fastest sport on 4 wheels! So with a couple of months to prepare I did what would make the past student part of me proud, I put it off until the week before the night itself.</p>
+
+<h2>The night</h2>
+
+
+<p>The night of the talk I think I&#8217;d ran through it maybe once completely after overrunning on the first 3 slides about 5 times, turns out that 20 seconds really isn&#8217;t that long after all. I planned about 3-4 sentences per photo and it seemed I could barely get through 2 :/ so basically what that taught me is that I should really plan a talk a little further in advance to give myself a little longer to test it out, rookie mistake.</p>
+
+<p>After finally getting over to Science Oxford and getting the slides loaded up on the computer I waited around with the hosts and a couple of other speakers for things to begin. When we got settled down for the talks to begin I actually had no idea in which order the talks were going in apart from a cursory glance at a list which had me in 4th, turns out I was second!</p>
+
+<p>The talk went, well, quickly&#8230;it seemed that no longer had I got up there I was pretty much sitting back down again. A couple of things I did notice while I was speaking was that I mainly spoke to one person in the audience (the guy pretty much straight in front of me) and even though I had notes for each slide I managed mostly not to look at them as I just reeled off the first things I could remember for that slide as I was extremely aware of small amount of time I had.</p>
+
+<h2>The result</h2>
+
+
+<p>Afterwards there were a couple of questions, one being do I have any involvement with F1 and am I paid to do this sort of thing, the very short answer to that was &#8216;no&#8217; unfortunately you don&#8217;t have to pay me to talk about F1 but if anybody would like to I&#8217;ll happily accept!</p>
+
+<p>All in all I&#8217;m pretty happy with how things went, I could have done more prep and maybe given myself some more time to run through it some more and make adjustments but as a first go it wasn&#8217;t too bad. And the whole speaking in front of strangers wasn&#8217;t as bad as I thought and I would happily do it again. I was speaking to one of the other speakers at the end of the night who asked if I would do the presentation again for kids which would be an experience I guess but why not&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Education in the web industry, is it good enough?]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/02/21/education-in-the-web-industry/"/>
+    <updated>2011-02-21T21:12:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/02/21/education-in-the-web-industry</id>
+    <content type="html"><![CDATA[<p>Recently through both my experience and after reading an article in the newspaper from the recent new adventures conference I started thinking more about what education does for people who want to get into this industry and where it&#8217;s falling short. So is it time the web industry educated educational institutions?</p>
+
+<p>I&#8217;ve only recently entered the web industry as a front end developer, before that I was a student at Oxford Brookes University where I studied computer science, which included many subjects, some of which were based around web design. From my education I was taught the basics of PHP and JavaScript and built on my knowledge of HTML and CSS, however since taking on my job after leaving Uni I found myself thrown in a the proverbial deep end!</p>
+
+<h2>It&#8217;s not good enough is it!</h2>
+
+
+<p>So basically what I&#8217;m trying to say is I feel my education didn&#8217;t prepare me very well for the real world. Isn&#8217;t that what they&#8217;re supposed to do? I went into the industry having not used a CMS, didn&#8217;t know much about fonts (didn&#8217;t really even know the web fonts properly) and any idea of learning actual design at Uni was left to recommended reading&#8230;is that really good enough?</p>
+
+<p>And from speaking to my current employer (and I would like to hear opinions from other companies and industry leaders) a degree is not exactly the first thing on the shopping list of requirements in a job applicant any more.</p>
+
+<p>So what can be done about this? I think the answer is for the web industry to get involved more with education and help to improve the current curriculum to help students who want to learn web design and development, learn it to a point where the businesses will be able to more readily consider them a serious applicant.</p>
+
+<h2>What do we do from here then?</h2>
+
+
+<p>There are a few ways that this could be solved, the web industry could work closer with Universities and attempt to improve the curriculum, companies could offer placements for work experience and gap years for students. And what about education outside of Universities and colleges? I know internships are fairly commonplace in our industry but another idea I had thought of was what about a web industry apprenticeships?</p>
+
+<p>Well I&#8217;m happy to say that recently that idea has been taken on by someone who spoke at a conference I recently attended, enter Mr Mark Boulton. While sat on twitter sometime last week I noticed a tweet from Mark saying</p>
+
+<blockquote>&#8220;Two job opportunities @<a rel="nofollow" href="http://twitter.com/markboultondsg">markboultondsg</a>: Web Designer and Web Design Apprentice:<a title="http://www.markboultondesign.com/jobs" rel="nofollow" href="http://t.co/Uj0Ndc7" target="_blank">http://t.co/Uj0Ndc7</a>&#8221;</blockquote>
+
+
+<p>and instantly I was intrigued to see what was going on.</p>
+
+<p>Mark posted a link to a blog post a day or so later explaining his reasons for taking on a web design apprentice, saying</p>
+
+<blockquote>&#8220;Internships are the norm in our industry. I did it, and it was mostly great. But the thing is; it didn’t pay well and I was only there for a few months.&#8221;</blockquote>
+
+
+<p>and</p>
+
+<blockquote>&#8220;An Apprentice is something completely different. It’s a commitment to teach and nurture you over a given period of time.&#8221;</blockquote>
+
+
+<p>All I can say is that I wholeheartedly agree with what Mark is doing and can only wish him the best in doing so. I also hope that this might start off a new way of educating people in the ways of our industry as it&#8217;s not only a great way of doing so but also has the potential to happen quickly. Which lets be honest is the best thing about how our industry works!</p>
+
+<p>I think now more than ever it&#8217;s important that we look to improve how people come in to our industry as what I&#8217;ve seen recently is it maturing and finally starting to be taken more seriously as a profession, we can&#8217;t continue to do this with people being poorly educated at the first level. Otherwise we&#8217;re going to be heading into that inevitable situation where companies only look for people experience and students are completely unable to get that experience.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Working at a Design Agency, a developer&#039;s point of view]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/02/06/working-at-a-design-agency/"/>
+    <updated>2011-02-06T12:36:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/02/06/working-at-a-design-agency</id>
+    <content type="html"><![CDATA[<p>Ok, so I&#8217;m a web developer, nothing more nothing less (well I can use photoshop and now a little illustrator). I&#8217;ve been doing this for about 18 months professionally and a year or two academically before (more on that later, in another random post), so I&#8217;m fairly new to the web industry as a whole. This is my first job as a professional developer and it&#8217;s in a company which deals in not only web but print as well and this has been an interesting experience ever since the first day.</p>
+
+<h2>Curiosity killed the cat</h2>
+
+
+<p>I&#8217;m a naturally curious person. I like to know all that I can about things that interest me, maybe not all at once (if I did I&#8217;d have about 20 books on the go) but if I see an opportunity to learn something I&#8217;ll take it. Some find it strange that I watch things like Stargazing or Mythbusters as they see it as educational rather than entertaining, but why shouldn&#8217;t you enjoy learning something new? It&#8217;d be a pretty boring world if we only knew things because we had to! I mean who knows what you&#8217;ll learn that might turn up in a quiz night one day. So working here has allowed me to learn not only about the world of the web but also that of print and more recently event management (we do lots around here).</p>
+
+<p>It&#8217;s been interesting getting to see other people work on leaflets, magazines and books while I sit happily in the corner coding away. I get to see a lot of different things that comes in and a real variety in the stuff that we produce. If I find an excuse to go upstairs (where the designers live) there&#8217;s always about 6 different projects going on and I sometimes find myself transfixed on someone&#8217;s screen while they do some quite routine thing in illustrator which is new to me (sorry Tom). And I like to think the same happens for some of the designers when they sit and see me tidying up the styling on a website or something just as arbitrary to me.</p>
+
+<p>It also means the office is full of really different people, mostly all creative but in really diverse ways and with varying personalities. I know there are a few of these companies out there but I also know there&#8217;s a lot that just specialise in web design or print design individually and after the experiences I&#8217;ve had here I&#8217;m really not sure I&#8217;d want to work in a place with only the one speciality.</p>
+
+<h2>I thought you weren&#8217;t meant to like your job?</h2>
+
+
+<p>At the heart of it, I am still only a developer, I don&#8217;t do any design here at all, I leave that to the people with the knowledge and experience to do so. However that doesn&#8217;t mean I sit back and do exactly as I&#8217;m told and not attempt to contribute to the design or ideas in some form or another. If that means an idea in a meeting or adding something to the page a designer couldn&#8217;t via CSS or jQuery. I still like to be active in the process of creating the site rather than be just another developer robot that sits and codes all day&#8230; I also like to concern myself with how I put a site together, thinking about how I can produce cleaner markup or creating clever effects using CSS instead of having to resort to graphics (I&#8217;ve had a lot of fun with HTML5 recently, makes a page look a lot more semantic than div div div div).</p>
+
+<p>So that&#8217;s about it really, just me rambling on about the job I do&#8230;I enjoy what I do, I enjoy the people I work with and most of all I like the company that I work for, their a mad bunch but it kinda feels like we&#8217;re all part of that madness in some way or another. If you want to check out this odd bunch I&#8217;m talking about you can go to <a href="http://www.oneltd.co.uk">www.oneltd.co.uk</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Adventures Conference]]></title>
+    <link href="http://onishiweb.github.com/blog/2011/01/29/new-adventures-conf/"/>
+    <updated>2011-01-29T16:07:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2011/01/29/new-adventures-conf</id>
+    <content type="html"><![CDATA[<p>Now I&#8217;m fully aware that at time of writing there are countless numbers of people who have already given very concise and detailed reviews of their experiences of the recent New Adventures conference in Nottingham. At one point it even got to the stage where I considered not writing this post because there were so many. But I&#8217;m thinking sod it, why not have my say on what I thought was a really enthralling day which not only allowed me to hear about new ideas in the industry but also be part of an amazing collection of like minded people.</p>
+
+<h2>Community</h2>
+
+
+<p>The main feeling I took away from my time spent in Nottingham was the overall community feel of the conference. From the first tweet I read way back in June/July there has been a lot of talk of who would be attending, what ideas were going to be discussed and a rather healthy amount of people contributing to the goings on in and around the conference itself.</p>
+
+<p><a href="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/01/5399701266_644ea88038.jpg"><img class="alignnone size-full wp-image-35" title="Erskine Bowling" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/01/5399701266_644ea88038.jpg" alt="" width="500" height="375" /></a>
+<small>The pre-conference night at Erskine Bowling by Paul Robert Lloyd</small></p>
+
+<p>I went to the conference eager to meet many people I&#8217;ve only so far known as @thisperson or @thatperson. Thanks to the Erskine bowling the night before and the Escucha after party I was able to wander round and just talk to people who seemed happy to do the same. As scary as that is to someone not really comfortable in walking around talking to various unknown people, it was the overriding community feel that gave me the confidence to do so and I can honestly say it wouldn&#8217;t have been the same conference without it!</p>
+
+<h2>The conference day</h2>
+
+
+<p>Moving on to the main reason we were all there (the conference itself - the after party being a close second), the day was full of interesting speakers, some whom I&#8217;d seen talk before but most were for the first time.</p>
+
+<p>Although the day started a little later than planned - due to a mass amount of people trying to come through two doors to register - it wasn&#8217;t the best of starts but by no means Simon&#8217;s fault and he handled it extremely well keeping everyone up to date on goings on. Although it did leave me sitting in the relatively uncomfortable seats for a little long.</p>
+
+<p>Once we finally got underway Dan Rubin started with one of my favourite talks of the day. Speaking about the language we use in our industry he spoke of borrowed terms and phrases that we use and how although sometimes they work, when coming from a closely related profession can lead to confusion (there is NO fold on the web!). I couldn&#8217;t agree more with what he was saying and speaking to him later in the evening we both thought that although evolving the language of an industry takes time it won&#8217;t happen unless people start talking about it and make others more aware.</p>
+
+<p>It would take me an age to go through all of the talks one by one like that so I will just mention a few others that left me thinking. Andy Clarke spoke about story-telling on the web, using examples from film and comics (great use of the comic too) showed how timing and flow can be controlled and altered by effective layout of the content. Elliot Jay Stocks spoke about a responsibility in how we use certain aspects of design and how just using things because they&#8217;re available is not always right. Both talks were brilliantly thought provoking and left me with new ideas to take into future projects.</p>
+
+<p>I must be honest and say that the post-lunch talks didn&#8217;t come across quite as well as many of the others, this could have possibly been down to the timing however the topics may not have helped either. Veerle Pieters tackled inspiration which I think is always a hard subject to talk about being such a personal thing. I found myself not getting into it as much, although I was able to see how her process is very effective. Also the conclusions from Greg Wood&#8217;s talk about Art Direction on the web seemed fairly obvious, in that an article with art directed content would work better against a plain text version.</p>
+
+<p><a href="http://www.flickr.com/photos/szene/"><img class="alignnone size-full wp-image-37" title="5380442461_8e04042fa7" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/01/5380442461_8e04042fa7.jpg" alt="" width="500" height="333" /></a>
+<small>Brendan Dawes talking Produced for Use - yes that&#8217;s a pencil in a cat&#8217;s ass. By Andreas Dantz</small></p>
+
+<p>The final talk from Brendan Dawes - who always grasps my attention thanks to his overwhelming ease with which he speaks - again left me contemplating the worth of what we produce in his brilliant talk on &#8220;produced for use&#8221;. He spoke about creating things with a real purpose rather than just for the sake of it, with a couple of fantastic ideas of his own.</p>
+
+<p>From talking with others and reading some of the other reviews I have to agree that the length of the day was a little too long. It would have been completely reasonable to cut the number of speakers down to 8 and maybe give more time to networking breaks or a slightly earlier finish.</p>
+
+<p>The Q&amp;A session although experimental promised more than they delivered but I don&#8217;t think this was down to the speakers or Simon as I think better questions could have been asked and it all felt a little rushed with some of the speakers concerned that they&#8217;re answers were too lengthy opposed to answering them well.</p>
+
+<h2>Conclusions</h2>
+
+
+<p>Overall I had a fantastic experience at New Adventures, the majority of the speakers and the community feel of the event left me filled with more enthusiasm for my industry than ever and gave me ideas to take things further in the work I do. A thoroughly good job done by Simon Collison and will be looking forward to hopefully being there again next year!</p>
+
+<h3>Thanks:</h3>
+
+
+<p>The conference not only gave me the chance to see some excellent speakers talk on inspiring and thought provoking topics but I was also able to meet some people with whom I talk on twitter as <a href="http://twitter.com/onishiweb" target="_blank">@onishiweb</a>. I finally got to meet and have a drink with <a href="http://twitter.com/foamcow" target="_blank">@foamcow</a> and <a href="http://twitter.com/fiftydigital" target="_blank">@fiftydigital</a>. Was able to talk with <a href="http://twitter.com/danrubin" target="_blank">@danrubin</a>, <a href="http://twitter.com/RellyAB" target="_blank">@rellyAB</a>, <a href="http://twitter.com/hicksdesign" target="_blank">@Hicksdesign</a> and <a href="http://twitter.com/brendandawes" target="_blank">@brendandawes</a>. And met some cool new people in the likes of <a href="http://twitter.com/alunr" target="_blank">@alunr</a>, <a href="http://twitter.com/azlan" target="_blank">@azlan</a>, <a href="http://twitter.com/josiecalvert" target="_blank">@josiecalvert</a>, <a href="http://twitter.com/uniongasworx" target="_blank">@UnionGasworx</a> and <a href="http://twitter.com/timharbour" target="_blank">@timharbour</a> thanks guys for making the conference all that more worthwhile.</p>
 ]]></content>
   </entry>
   

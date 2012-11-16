@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>New blogging setup - Some thoughts of Adam Onishi</title>
+  <title>CSS Pseudo-elements - Some thoughts of Adam Onishi</title>
   <meta name="author" content="Adam Onishi">
 
   
-  <meta name="description" content="I&#8217;m just starting to play with new technologies and techniques for blogging, the first two I&#8217;ve chosen are Octopress - this one - and &hellip;">
+  <meta name="description" content="After reading an article by Anna Debenham on the nth-of-type pseudo element it got me thinking about a recent client site in which the :before and : &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://onishiweb.github.com/blog/2012/11/16/new-blogging-setup/">
+  <link rel="canonical" href="http://onishiweb.github.com/blog/2012/04/11/css-pseudo-elements/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -67,7 +67,7 @@
   
   <header>
     
-      <h1 class="entry-title">New Blogging Setup</h1>
+      <h1 class="entry-title">CSS Pseudo-elements</h1>
     
     
       <p class="meta">
@@ -83,16 +83,71 @@
   
 
 
-<time datetime="2012-11-16T21:46:00+00:00" pubdate data-updated="true">Nov 16<span>th</span>, 2012</time>
+<time datetime="2012-04-11T13:26:00+01:00" pubdate data-updated="true">Apr 11<span>th</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>I&#8217;m just starting to play with new technologies and techniques for blogging, the first two I&#8217;ve chosen are <a href="http://octopress.org/">Octopress</a> - this one - and <a href="http://scriptogr.am/">Scriptogram</a>. I&#8217;m yet to publish anything on Scriptogram but I&#8217;m thinking of putting content on there and here then seeing which is easiest to write to and manage over the coming months. My aim is to find something that makes writing easier and focuses me on that instead of putting a redesign ahead of creating content.</p>
+<div class="entry-content"><p>After reading an article by <a href="http://twitter.com/#!/anna_debenham">Anna Debenham</a> on the <a href="http://maban.co.uk/68">nth-of-type pseudo element</a> it got me thinking about a recent client site in which the :before and :after pseudo-elements came in extremely handy. So I thought I&#8217;d share with you quickly what I did and give you an example similar to Anna&#8217;s of where pseudo-selectors can be very useful in responsive web development.</p>
 
-<p>Others platforms I&#8217;m considering are <a href="http://modx.com/">ModX</a>, <a href="http://grabaperch.com/">Perch</a>, and <a href="http://statamic.com/">Statamic</a> - the last two are paid for though so I&#8217;m not sure I&#8217;ll be trying out those for such a temporary solution.</p>
+<p>So the website in question is the <em>stunning</em> online store I built responsively for Sting and Trudie Styler&#8217;s Tuscany wine, honey and olive oil; <a href="http://www.palagioproducts.com">www.palagioproducts.com</a>. This was pretty much the first responsive website that One had decided to build and so it was a bit of a challenge from the outset, but one element of the design became quite tricky, the element in question being the fancy borders that sit at the top and bottom of the website.</p>
+
+<p><img src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/04/ll-palagio-border.jpg" alt="" title="ll-palagio-border" class="alignnone size-full wp-image-205" /></p>
+
+<p>Now normally in a fixed width site these could be easily produced using an image in the background, however as this was a responsive site, we needed the borders and the edgings to adjust depending on the width of the viewport and still retain their proportions, and this is where :before and :after came in.</p>
+
+<p>Here&#8217;s how it was coded and an example on the page below (change the size of the browser and you should see the border expand and contract with the edging&#8217;s staying in place at the left and right sides of the border).</p>
+
+<!-- Code example and demo -->
+
+
+
+
+<div id="palagio-divider"></div>
+
+
+
+
+<pre>
+.divider
+{
+    clear: left;
+    position: relative;
+    width: 90%;
+    height: 34px;
+    margin: 0 5%;
+    background: url(images/common/divider-background.png) top center no-repeat;
+}
+
+.divider:after
+{
+    content: "";
+    width: 65px;
+    height: 34px;
+    display: block;
+    background: url(images/common/divider-left.png) top left no-repeat;
+    position: absolute;
+    top: 0px;
+    left: -6%;
+}
+
+.divider:before
+{
+    content: "";
+    width: 65px;
+    height: 34px;
+    display: block;
+    background: url(images/common/divider-right.png) top left no-repeat;
+    position: absolute;
+    top: 0px;
+    right: -6%;
+}
+</pre>
+
+
+<p>So there you go, a really useful application of the :before and :after pseudo-elements for Responsive web development. Enjoy!</p>
 </div>
 
 
@@ -115,7 +170,7 @@
   
 
 
-<time datetime="2012-11-16T21:46:00+00:00" pubdate data-updated="true">Nov 16<span>th</span>, 2012</time>
+<time datetime="2012-04-11T13:26:00+01:00" pubdate data-updated="true">Apr 11<span>th</span>, 2012</time>
       
 
 
@@ -123,7 +178,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://onishiweb.github.com/blog/2012/11/16/new-blogging-setup/" data-via="onishiweb" data-counturl="http://onishiweb.github.com/blog/2012/11/16/new-blogging-setup/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://onishiweb.github.com/blog/2012/04/11/css-pseudo-elements/" data-via="onishiweb" data-counturl="http://onishiweb.github.com/blog/2012/04/11/css-pseudo-elements/" >Tweet</a>
   
   
   
@@ -132,8 +187,10 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2012/09/20/learning-through-teaching/" title="Previous Post: Learning through teaching">&laquo; Learning through teaching</a>
+        <a class="basic-alignment left" href="/blog/2012/01/22/ogn-education/" title="Previous Post: OGN: more talk about education">&laquo; OGN: more talk about education</a>
       
+      
+        <a class="basic-alignment right" href="/blog/2012/04/19/development-setup/" title="Next Post: New development setup">New development setup &raquo;</a>
       
     </p>
   </footer>
