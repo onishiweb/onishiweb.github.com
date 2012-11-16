@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://onishiweb.github.com/atom.xml" rel="self"/>
   <link href="http://onishiweb.github.com/"/>
-  <updated>2012-11-16T20:56:02+00:00</updated>
+  <updated>2012-11-16T22:22:44+00:00</updated>
   <id>http://onishiweb.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New blogging setup]]></title>
+    <link href="http://onishiweb.github.com/blog/2012/11/16/new-blogging-setup/"/>
+    <updated>2012-11-16T21:46:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2012/11/16/new-blogging-setup</id>
+    <content type="html"><![CDATA[<p>I&#8217;m just starting to play with new technologies and techniques for blogging, the first two I&#8217;ve chosen are <a href="http://octopress.org/">Octopress</a> - this one - and <a href="http://scriptogr.am/">Scriptogram</a>. I&#8217;m yet to publish anything on Scriptogram but I&#8217;m thinking of putting content on there and here then seeing which is easiest to write to and manage over the coming months. My aim is to find something that makes writing easier and focuses me on that instead of putting a redesign ahead of creating content.</p>
+
+<p>Others platforms I&#8217;m considering are <a href="http://modx.com/">ModX</a>, <a href="http://grabaperch.com/">Perch</a>, and <a href="http://statamic.com/">Statamic</a> - the last two are paid for though so I&#8217;m not sure I&#8217;ll be trying out those for such a temporary solution.</p>
+]]></content>
+  </entry>
   
 </feed>
