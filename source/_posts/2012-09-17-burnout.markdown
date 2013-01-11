@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Burnout"
+date: 2012-09-17 19:26
+comments: false
+categories: 
+---
+
+Over the last year or so my involvement in the web industry exploded; I began to look at my career as a love and much more than a job. I enjoyed working so much it was no longer constrained to 9-5, evenings and most weekends were spent doing what I loved, tapping away at code or reading books and blogs. I was having great fun and earning money, what more can you ask for in life.
+
+In 1972 Herbert J. Freudenberger defined burnout as "a demon born of the society and times we live in and our ongoing struggle to invest our lives with meaning. It is not a condition that gets better by being ignored. Nor is it any kind of disgrace. On the contrary, it’s a problem born of good intentions."
+
+A few months ago I started losing the passion for my work, instead of spending weekends working I spent them trying to find things to get me away from it. I had reached the point where I had a lot of work, lots of free time and it was the last thing I wanted to do. I started concentrating on paying work only; I put off side projects and things that I had previously enjoyed doing. I felt like I was letting down friends, clients, and most of all myself.
+
+Burnout can manifest itself in many ways. Your behaviour can change, becoming more aggressive, cynical and frustrated with things. You feel empty and apathetic towards your work. In worse cases it can lead to depression and what is known as burnout syndrome, causing mental breakdown, physical collapse and possible, suicidal thoughts. Luckily I can only relate to a couple of those.
+
+Sitting here now I see what happened and try to work with it so I'm no longer as badly affected. I don't feel nearly as bad as I once did. However this realisation didn't come on it's own; I read a post by <a href="http://rawkes.com/">Rob Hawkes</a> about his <a href="http://rawkes.com/articles/one-year-at-mozilla">first year at Mozilla</a>. He spoke about how amazing it had been but also how hard the constant travel and work was, and how after a while he too felt the effects of burnout. I spoke with him briefly afterwards on Twitter and it was nice to have someone I could talk to that I could relate to and have an open conversation with.
+
+Topics like this can be very personal, but affect more people than are willing to admit. By talking about it, I'm hoping others will realise it's not just them, it's common and it's manageable.

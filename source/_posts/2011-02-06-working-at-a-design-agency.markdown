@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Working at a Design Agency, a developer&#039;s point of view"
+date: 2011-02-06 12:36
+comments: false
+categories: 
+---
+
+Ok, so I'm a web developer, nothing more nothing less (well I can use photoshop and now a little illustrator). I've been doing this for about 18 months professionally and a year or two academically before (more on that later, in another random post), so I'm fairly new to the web industry as a whole. This is my first job as a professional developer and it's in a company which deals in not only web but print as well and this has been an interesting experience ever since the first day.
+<h2>Curiosity killed the cat</h2>
+I'm a naturally curious person. I like to know all that I can about things that interest me, maybe not all at once (if I did I'd have about 20 books on the go) but if I see an opportunity to learn something I'll take it. Some find it strange that I watch things like Stargazing or Mythbusters as they see it as educational rather than entertaining, but why shouldn't you enjoy learning something new? It'd be a pretty boring world if we only knew things because we had to! I mean who knows what you'll learn that might turn up in a quiz night one day. So working here has allowed me to learn not only about the world of the web but also that of print and more recently event management (we do lots around here).
+
+It's been interesting getting to see other people work on leaflets, magazines and books while I sit happily in the corner coding away. I get to see a lot of different things that comes in and a real variety in the stuff that we produce. If I find an excuse to go upstairs (where the designers live) there's always about 6 different projects going on and I sometimes find myself transfixed on someone's screen while they do some quite routine thing in illustrator which is new to me (sorry Tom). And I like to think the same happens for some of the designers when they sit and see me tidying up the styling on a website or something just as arbitrary to me.
+
+It also means the office is full of really different people, mostly all creative but in really diverse ways and with varying personalities. I know there are a few of these companies out there but I also know there's a lot that just specialise in web design or print design individually and after the experiences I've had here I'm really not sure I'd want to work in a place with only the one speciality.
+<h2>I thought you weren't meant to like your job?</h2>
+At the heart of it, I am still only a developer, I don't do any design here at all, I leave that to the people with the knowledge and experience to do so. However that doesn't mean I sit back and do exactly as I'm told and not attempt to contribute to the design or ideas in some form or another. If that means an idea in a meeting or adding something to the page a designer couldn't via CSS or jQuery. I still like to be active in the process of creating the site rather than be just another developer robot that sits and codes all day... I also like to concern myself with how I put a site together, thinking about how I can produce cleaner markup or creating clever effects using CSS instead of having to resort to graphics (I've had a lot of fun with HTML5 recently, makes a page look a lot more semantic than div div div div).
+
+So that's about it really, just me rambling on about the job I do...I enjoy what I do, I enjoy the people I work with and most of all I like the company that I work for, their a mad bunch but it kinda feels like we're all part of that madness in some way or another. If you want to check out this odd bunch I'm talking about you can go to <a href="http://www.oneltd.co.uk">www.oneltd.co.uk</a>.
