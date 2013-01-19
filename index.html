@@ -9,7 +9,7 @@
   <meta name="author" content="Adam Onishi">
 
   
-  <meta name="description" content="Late last year saw the release of the latest default theme offering from WordPress the next of the Twenty-somethings, TwentyTwelve. In this post I&# &hellip;">
+  <meta name="description" content="A while ago my boss sent round a link to a post from 37 Signals, An office with &#8220;library rules&#8221;, with the question, &#8220;I always &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -64,6 +64,52 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/01/18/library-rules/">Library Rules</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-18T19:33:00+00:00" pubdate data-updated="true">Jan 18<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>A while ago my boss sent round a link to a post from <a href="http://37signals.com/">37 Signals</a>, <a href="https://37signals.com/svn/posts/3357-an-office-with-library-rules">An office with &#8220;library rules&#8221;</a>, with the question, &#8220;I always wonder if this would be a good idea?&#8221;. At the time I wrote a quick response and afterwards thought I&#8217;d share it here, so this is my take on &#8220;Library rules/silence&#8221;.</p>
+
+<p><em>A bit of background, in our room at the office we generally have music playing in the background to the entire room, people including myself wear headphones and listen to their own music, and we also have a lot of people coming and going like account managers and people from different parts of the office.</em></p>
+
+<p>I don&#8217;t think &#8220;library silence&#8221; or rules like that would work to be honest, for one does that mean the music stops? Would that therefor mean we all resort to headphones?</p>
+
+<p>There certainly are times when it gets loud in here for all the conversations that are going on, I&#8217;ve donned headphones a number of times because I literally can&#8217;t think for the noise&#8230; but how we deal with taking those conversations away from the people working is the hard thing. Meeting rooms for conversations I don&#8217;t think would work, the noise build up I&#8217;m talking about is from multiple conversations at the same time and are relatively short, so moving them would be even more of a disturbance for the people having the short conversation.</p>
+
+<p>Then again things like some account managers impromptu meetings bringing 3-4 extra people in here crowding round a desk are a different beast entirely, things like that would be great to have cut out. Generally account managers do come and go causing interruptions now and then, but that&#8217;s not down to them entirely, it&#8217;s down to the whole process of client work, it is disruptive, but I guess then you could argue account managers are there to buffer that disruption and allow us the space/time to work&#8230;</p>
+
+<p>So basically what I&#8217;m trying to say is, yes, it would be great to be more distraction free and reduce the unnecessary interruptions/noise, but doing that in here would take some work, cultivating not only a culture amongst our team but almost in the company as a whole - to a degree&#8230;</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -692,99 +738,6 @@ Then anything that sort of I think is best fit for the top end of the resolution
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/04/11/css-pseudo-elements/">CSS Pseudo-elements</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-04-11T13:26:00+01:00" pubdate data-updated="true">Apr 11<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>After reading an article by <a href="http://twitter.com/#!/anna_debenham">Anna Debenham</a> on the <a href="http://maban.co.uk/68">nth-of-type pseudo element</a> it got me thinking about a recent client site in which the :before and :after pseudo-elements came in extremely handy. So I thought I&#8217;d share with you quickly what I did and give you an example similar to Anna&#8217;s of where pseudo-selectors can be very useful in responsive web development.</p>
-
-<p>So the website in question is the <em>stunning</em> online store I built responsively for Sting and Trudie Styler&#8217;s Tuscany wine, honey and olive oil; <a href="http://www.palagioproducts.com">www.palagioproducts.com</a>. This was pretty much the first responsive website that One had decided to build and so it was a bit of a challenge from the outset, but one element of the design became quite tricky, the element in question being the fancy borders that sit at the top and bottom of the website.</p>
-
-<p><img src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2012/04/ll-palagio-border.jpg" alt="" title="ll-palagio-border" class="alignnone size-full wp-image-205" /></p>
-
-<p>Now normally in a fixed width site these could be easily produced using an image in the background, however as this was a responsive site, we needed the borders and the edgings to adjust depending on the width of the viewport and still retain their proportions, and this is where :before and :after came in.</p>
-
-<p>Here&#8217;s how it was coded and an example on the page below (change the size of the browser and you should see the border expand and contract with the edging&#8217;s staying in place at the left and right sides of the border).</p>
-
-<!-- Code example and demo -->
-
-
-
-
-<div id="palagio-divider"></div>
-
-
-
-
-<pre>
-.divider
-{
-    clear: left;
-    position: relative;
-    width: 90%;
-    height: 34px;
-    margin: 0 5%;
-    background: url(images/common/divider-background.png) top center no-repeat;
-}
-
-.divider:after
-{
-    content: "";
-    width: 65px;
-    height: 34px;
-    display: block;
-    background: url(images/common/divider-left.png) top left no-repeat;
-    position: absolute;
-    top: 0px;
-    left: -6%;
-}
-
-.divider:before
-{
-    content: "";
-    width: 65px;
-    height: 34px;
-    display: block;
-    background: url(images/common/divider-right.png) top left no-repeat;
-    position: absolute;
-    top: 0px;
-    right: -6%;
-}
-</pre>
-
-
-<p>So there you go, a really useful application of the :before and :after pseudo-elements for Responsive web development. Enjoy!</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -800,6 +753,10 @@ Then anything that sort of I think is best fit for the top end of the resolution
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/01/18/library-rules/">Library rules</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/01/14/the-twentytwelve-theme/">The TwentyTwelve Theme</a>
       </li>
     
@@ -813,10 +770,6 @@ Then anything that sort of I think is best fit for the top end of the resolution
     
       <li class="post">
         <a href="/blog/2012/09/20/learning-through-teaching/">Learning through teaching</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/09/17/burnout/">Burnout</a>
       </li>
     
   </ul>

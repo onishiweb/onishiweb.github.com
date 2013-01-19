@@ -4,7 +4,7 @@
   <title><![CDATA[Some thoughts of Adam Onishi]]></title>
   <link href="http://onishiweb.github.com/atom.xml" rel="self"/>
   <link href="http://onishiweb.github.com/"/>
-  <updated>2013-01-14T21:08:45+00:00</updated>
+  <updated>2013-01-19T09:50:17+00:00</updated>
   <id>http://onishiweb.github.com/</id>
   <author>
     <name><![CDATA[Adam Onishi]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Library rules]]></title>
+    <link href="http://onishiweb.github.com/blog/2013/01/18/library-rules/"/>
+    <updated>2013-01-18T19:33:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2013/01/18/library-rules</id>
+    <content type="html"><![CDATA[<p>A while ago my boss sent round a link to a post from <a href="http://37signals.com/">37 Signals</a>, <a href="https://37signals.com/svn/posts/3357-an-office-with-library-rules">An office with &#8220;library rules&#8221;</a>, with the question, &#8220;I always wonder if this would be a good idea?&#8221;. At the time I wrote a quick response and afterwards thought I&#8217;d share it here, so this is my take on &#8220;Library rules/silence&#8221;.</p>
+
+<p><em>A bit of background, in our room at the office we generally have music playing in the background to the entire room, people including myself wear headphones and listen to their own music, and we also have a lot of people coming and going like account managers and people from different parts of the office.</em></p>
+
+<p>I don&#8217;t think &#8220;library silence&#8221; or rules like that would work to be honest, for one does that mean the music stops? Would that therefor mean we all resort to headphones?</p>
+
+<p>There certainly are times when it gets loud in here for all the conversations that are going on, I&#8217;ve donned headphones a number of times because I literally can&#8217;t think for the noise&#8230; but how we deal with taking those conversations away from the people working is the hard thing. Meeting rooms for conversations I don&#8217;t think would work, the noise build up I&#8217;m talking about is from multiple conversations at the same time and are relatively short, so moving them would be even more of a disturbance for the people having the short conversation.</p>
+
+<p>Then again things like some account managers impromptu meetings bringing 3-4 extra people in here crowding round a desk are a different beast entirely, things like that would be great to have cut out. Generally account managers do come and go causing interruptions now and then, but that&#8217;s not down to them entirely, it&#8217;s down to the whole process of client work, it is disruptive, but I guess then you could argue account managers are there to buffer that disruption and allow us the space/time to work&#8230;</p>
+
+<p>So basically what I&#8217;m trying to say is, yes, it would be great to be more distraction free and reduce the unnecessary interruptions/noise, but doing that in here would take some work, cultivating not only a culture amongst our team but almost in the company as a whole - to a degree&#8230;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The TwentyTwelve Theme]]></title>
