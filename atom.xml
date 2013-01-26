@@ -4,7 +4,7 @@
   <title><![CDATA[Some thoughts of Adam Onishi]]></title>
   <link href="http://onishiweb.github.com/atom.xml" rel="self"/>
   <link href="http://onishiweb.github.com/"/>
-  <updated>2013-01-19T09:50:17+00:00</updated>
+  <updated>2013-01-26T15:57:06+00:00</updated>
   <id>http://onishiweb.github.com/</id>
   <author>
     <name><![CDATA[Adam Onishi]]></name>
@@ -12,6 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A final adventure?]]></title>
+    <link href="http://onishiweb.github.com/blog/2013/01/26/a-final-adventure/"/>
+    <updated>2013-01-26T13:16:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2013/01/26/a-final-adventure</id>
+    <content type="html"><![CDATA[<p>I&#8217;m sat on the train heading back from what is likely the last ever New Adventures conference. As much as that makes me kinda sad to say that it might not happen again, it&#8217;s been a great few days and a truly great end to the first month of 2013.</p>
+
+<p>New Adventures was one of the first conferences I attended when it ran for the first time back in 2011, I had been in the industry for about 15 months and hadn&#8217;t really found out much about the community around the web industry. I had attended FOWD2010 but that had been with the other developers at work and I hadn&#8217;t really met many people there, they were just people. New Adventures showed me there was a much bigger community around what we do and it made me want to be a part of it.</p>
+
+<p>This year was no different. Except for me that instead of knowing almost no one, I knew a ridiculous amount of people, and met many more new folk as well. I think the extra events around the conference really help to promote this in the community and the Erskine bowling and the (abandoned) Fr00tball were some great opportunities to meet people and get to know the community.</p>
+
+<p>The conference day itself was another fantastic success as well, I remember coming away from 2011 bursting with new ideas and things I wanted to do. This year is no different. The talks from Tiago Pedras and Jessica Hische gave me confidence that things I&#8217;m working on and the way I want to work are worthwhile and gave me the motivation to push on with them. Jason Santa Maria and Jon Tan&#8217;s talks make me think more about what I&#8217;m doing and how to approach new things. I remember seeing Jon&#8217;s talk from 2011 and being just as inspired.</p>
+
+<p>Having Seb Lee-Delisle take the stage straight after lunch was a great decision, his enthusiasm and fun approach to his talks were brilliant to wake up the crowd after getting suitably full from lunch. I always enjoy watching Seb speak at events, I&#8217;ve seen him do similar talks 2 or 3 times in the last year or so and I&#8217;d happily watch him many times over.</p>
+
+<p>Thanks to all the other speakers as well who did a great job, I don&#8217;t think I heard a single person say something bad about any of the talks with everyone taking away something different things from a variety of the talks. There&#8217;s few I really want to watch again especially Stephanie Troeth&#8217;s talk, when it&#8217;s up on Besquare, I really liked the idea behind the talk but need to hear it again as there was so much to take in!</p>
+
+<p>Finally I just want to say thank you again to Simon and Greg and all those involved with the conference, thank you for the last few years hard work, I missed the second year which I wish I hadn&#8217;t but am so glad I made it back for the third! Thank you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The WordPress workshop comes again]]></title>
+    <link href="http://onishiweb.github.com/blog/2013/01/26/the-wordpress-workshop-comes-again/"/>
+    <updated>2013-01-26T12:39:00+00:00</updated>
+    <id>http://onishiweb.github.com/blog/2013/01/26/the-wordpress-workshop-comes-again</id>
+    <content type="html"><![CDATA[<p>Right, so I guess it&#8217;s about time I started thinking about the WordPress workshop I had to postpone last year. Again sorry to anyone who had booked on it and sorry again for taking so long to arrange it, a lot has been going on over the last few months but I think I&#8217;m ready to start thinking what I want to do with the workshop now.</p>
+
+<p>First of all I think it&#8217;s time for a new and better title which describes the day a bit more. The previous generic title of &#8220;The WordPress Workshop&#8221; led to a lot of questions about what the course would actually cover and what level of experience with WordPress was needed in advance. So the new title for the workshop will be:</p>
+
+<h2>WordPress for front-end developers</h2>
+
+<p>WordPress for front-end developers will cover using WordPress from the point of view that you&#8217;re a front-end coder (or designer with some front-end knowledge) and want to use WordPress to be able to deliver a better level of service to your clients, to offer them a &#8220;full-service&#8221; so to say. You will be required to have no prior knowledge of WordPress or backend coding in PHP, to find this workshop useful. I will be going into enough detail in the workshop that by the end of the day you should be confident enough to be able to develop your own custom themes for the CMS.</p>
+
+<h2>One day</h2>
+
+<p>I&#8217;m going to keep the workshop at a day-long for now, purely so that I can see how it goes and keep costs down for the first run. After the first one I will review what went well, less well and what could be included/left out for further runs. I&#8217;m toying with the idea of doing an advanced workshop or a two-day workshop should it work out well and the interest be there.</p>
+
+<h3>The day itself</h3>
+
+<p>On the day here&#8217;s the topics I will look to cover:</p>
+
+<ul>
+<li>Introduction to WordPress</li>
+<li>Installing WordPress (from the command line, including setting up permissions and simple configuration)</li>
+<li>Introduction to PHP and WordPress specific uses</li>
+<li>Starting a theme from scratch</li>
+<li>The Loop</li>
+<li>Template hierarchy</li>
+<li>Custom post types and taxonomies</li>
+<li>WordPress and theme security</li>
+</ul>
+
+
+<p>I&#8217;ll stick roughly to this list at the moment and work on it from there, I think these are some of the more core topics that should get you up and running with building your own theme and getting to grips with backend development.</p>
+
+<h2>When?</h2>
+
+<p>As it&#8217;s very much still in the planning stages the when is very loose but I will hazard a guess at it being towards the end of April time. But I will release more information as and when I get things better set up.</p>
+
+<h2>Where do I sign up?</h2>
+
+<p>I&#8217;m writing this sat on the train on the way back from NAConf, so for the moment there&#8217;s no website or booking set up. For now if you would like to be kept up to date with developments you can sign up to the mailing list through <a href="http://adamonishi.com/workshop">the old site</a> and I will be sending out information when I have a better idea of what&#8217;s going to happen next.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Library rules]]></title>
@@ -730,82 +796,6 @@ I&#8217;m also going to be attending <a href="http://updateconf.com" target="_bl
 <p>All I can say is that I wholeheartedly agree with what Mark is doing and can only wish him the best in doing so. I also hope that this might start off a new way of educating people in the ways of our industry as it&#8217;s not only a great way of doing so but also has the potential to happen quickly. Which lets be honest is the best thing about how our industry works!</p>
 
 <p>I think now more than ever it&#8217;s important that we look to improve how people come in to our industry as what I&#8217;ve seen recently is it maturing and finally starting to be taken more seriously as a profession, we can&#8217;t continue to do this with people being poorly educated at the first level. Otherwise we&#8217;re going to be heading into that inevitable situation where companies only look for people experience and students are completely unable to get that experience.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Working at a Design Agency, a developer&#039;s point of view]]></title>
-    <link href="http://onishiweb.github.com/blog/2011/02/06/working-at-a-design-agency/"/>
-    <updated>2011-02-06T12:36:00+00:00</updated>
-    <id>http://onishiweb.github.com/blog/2011/02/06/working-at-a-design-agency</id>
-    <content type="html"><![CDATA[<p>Ok, so I&#8217;m a web developer, nothing more nothing less (well I can use photoshop and now a little illustrator). I&#8217;ve been doing this for about 18 months professionally and a year or two academically before (more on that later, in another random post), so I&#8217;m fairly new to the web industry as a whole. This is my first job as a professional developer and it&#8217;s in a company which deals in not only web but print as well and this has been an interesting experience ever since the first day.</p>
-
-<h2>Curiosity killed the cat</h2>
-
-
-<p>I&#8217;m a naturally curious person. I like to know all that I can about things that interest me, maybe not all at once (if I did I&#8217;d have about 20 books on the go) but if I see an opportunity to learn something I&#8217;ll take it. Some find it strange that I watch things like Stargazing or Mythbusters as they see it as educational rather than entertaining, but why shouldn&#8217;t you enjoy learning something new? It&#8217;d be a pretty boring world if we only knew things because we had to! I mean who knows what you&#8217;ll learn that might turn up in a quiz night one day. So working here has allowed me to learn not only about the world of the web but also that of print and more recently event management (we do lots around here).</p>
-
-<p>It&#8217;s been interesting getting to see other people work on leaflets, magazines and books while I sit happily in the corner coding away. I get to see a lot of different things that comes in and a real variety in the stuff that we produce. If I find an excuse to go upstairs (where the designers live) there&#8217;s always about 6 different projects going on and I sometimes find myself transfixed on someone&#8217;s screen while they do some quite routine thing in illustrator which is new to me (sorry Tom). And I like to think the same happens for some of the designers when they sit and see me tidying up the styling on a website or something just as arbitrary to me.</p>
-
-<p>It also means the office is full of really different people, mostly all creative but in really diverse ways and with varying personalities. I know there are a few of these companies out there but I also know there&#8217;s a lot that just specialise in web design or print design individually and after the experiences I&#8217;ve had here I&#8217;m really not sure I&#8217;d want to work in a place with only the one speciality.</p>
-
-<h2>I thought you weren&#8217;t meant to like your job?</h2>
-
-
-<p>At the heart of it, I am still only a developer, I don&#8217;t do any design here at all, I leave that to the people with the knowledge and experience to do so. However that doesn&#8217;t mean I sit back and do exactly as I&#8217;m told and not attempt to contribute to the design or ideas in some form or another. If that means an idea in a meeting or adding something to the page a designer couldn&#8217;t via CSS or jQuery. I still like to be active in the process of creating the site rather than be just another developer robot that sits and codes all day&#8230; I also like to concern myself with how I put a site together, thinking about how I can produce cleaner markup or creating clever effects using CSS instead of having to resort to graphics (I&#8217;ve had a lot of fun with HTML5 recently, makes a page look a lot more semantic than div div div div).</p>
-
-<p>So that&#8217;s about it really, just me rambling on about the job I do&#8230;I enjoy what I do, I enjoy the people I work with and most of all I like the company that I work for, their a mad bunch but it kinda feels like we&#8217;re all part of that madness in some way or another. If you want to check out this odd bunch I&#8217;m talking about you can go to <a href="http://www.oneltd.co.uk">www.oneltd.co.uk</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New Adventures Conference]]></title>
-    <link href="http://onishiweb.github.com/blog/2011/01/29/new-adventures-conf/"/>
-    <updated>2011-01-29T16:07:00+00:00</updated>
-    <id>http://onishiweb.github.com/blog/2011/01/29/new-adventures-conf</id>
-    <content type="html"><![CDATA[<p>Now I&#8217;m fully aware that at time of writing there are countless numbers of people who have already given very concise and detailed reviews of their experiences of the recent New Adventures conference in Nottingham. At one point it even got to the stage where I considered not writing this post because there were so many. But I&#8217;m thinking sod it, why not have my say on what I thought was a really enthralling day which not only allowed me to hear about new ideas in the industry but also be part of an amazing collection of like minded people.</p>
-
-<h2>Community</h2>
-
-
-<p>The main feeling I took away from my time spent in Nottingham was the overall community feel of the conference. From the first tweet I read way back in June/July there has been a lot of talk of who would be attending, what ideas were going to be discussed and a rather healthy amount of people contributing to the goings on in and around the conference itself.</p>
-
-<p><a href="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/01/5399701266_644ea88038.jpg"><img class="alignnone size-full wp-image-35" title="Erskine Bowling" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/01/5399701266_644ea88038.jpg" alt="" width="500" height="375" /></a>
-<small>The pre-conference night at Erskine Bowling by Paul Robert Lloyd</small></p>
-
-<p>I went to the conference eager to meet many people I&#8217;ve only so far known as @thisperson or @thatperson. Thanks to the Erskine bowling the night before and the Escucha after party I was able to wander round and just talk to people who seemed happy to do the same. As scary as that is to someone not really comfortable in walking around talking to various unknown people, it was the overriding community feel that gave me the confidence to do so and I can honestly say it wouldn&#8217;t have been the same conference without it!</p>
-
-<h2>The conference day</h2>
-
-
-<p>Moving on to the main reason we were all there (the conference itself - the after party being a close second), the day was full of interesting speakers, some whom I&#8217;d seen talk before but most were for the first time.</p>
-
-<p>Although the day started a little later than planned - due to a mass amount of people trying to come through two doors to register - it wasn&#8217;t the best of starts but by no means Simon&#8217;s fault and he handled it extremely well keeping everyone up to date on goings on. Although it did leave me sitting in the relatively uncomfortable seats for a little long.</p>
-
-<p>Once we finally got underway Dan Rubin started with one of my favourite talks of the day. Speaking about the language we use in our industry he spoke of borrowed terms and phrases that we use and how although sometimes they work, when coming from a closely related profession can lead to confusion (there is NO fold on the web!). I couldn&#8217;t agree more with what he was saying and speaking to him later in the evening we both thought that although evolving the language of an industry takes time it won&#8217;t happen unless people start talking about it and make others more aware.</p>
-
-<p>It would take me an age to go through all of the talks one by one like that so I will just mention a few others that left me thinking. Andy Clarke spoke about story-telling on the web, using examples from film and comics (great use of the comic too) showed how timing and flow can be controlled and altered by effective layout of the content. Elliot Jay Stocks spoke about a responsibility in how we use certain aspects of design and how just using things because they&#8217;re available is not always right. Both talks were brilliantly thought provoking and left me with new ideas to take into future projects.</p>
-
-<p>I must be honest and say that the post-lunch talks didn&#8217;t come across quite as well as many of the others, this could have possibly been down to the timing however the topics may not have helped either. Veerle Pieters tackled inspiration which I think is always a hard subject to talk about being such a personal thing. I found myself not getting into it as much, although I was able to see how her process is very effective. Also the conclusions from Greg Wood&#8217;s talk about Art Direction on the web seemed fairly obvious, in that an article with art directed content would work better against a plain text version.</p>
-
-<p><a href="http://www.flickr.com/photos/szene/"><img class="alignnone size-full wp-image-37" title="5380442461_8e04042fa7" src="http://www.onishiweb.co.uk/wordpress/wp-content/uploads/2011/01/5380442461_8e04042fa7.jpg" alt="" width="500" height="333" /></a>
-<small>Brendan Dawes talking Produced for Use - yes that&#8217;s a pencil in a cat&#8217;s ass. By Andreas Dantz</small></p>
-
-<p>The final talk from Brendan Dawes - who always grasps my attention thanks to his overwhelming ease with which he speaks - again left me contemplating the worth of what we produce in his brilliant talk on &#8220;produced for use&#8221;. He spoke about creating things with a real purpose rather than just for the sake of it, with a couple of fantastic ideas of his own.</p>
-
-<p>From talking with others and reading some of the other reviews I have to agree that the length of the day was a little too long. It would have been completely reasonable to cut the number of speakers down to 8 and maybe give more time to networking breaks or a slightly earlier finish.</p>
-
-<p>The Q&amp;A session although experimental promised more than they delivered but I don&#8217;t think this was down to the speakers or Simon as I think better questions could have been asked and it all felt a little rushed with some of the speakers concerned that they&#8217;re answers were too lengthy opposed to answering them well.</p>
-
-<h2>Conclusions</h2>
-
-
-<p>Overall I had a fantastic experience at New Adventures, the majority of the speakers and the community feel of the event left me filled with more enthusiasm for my industry than ever and gave me ideas to take things further in the work I do. A thoroughly good job done by Simon Collison and will be looking forward to hopefully being there again next year!</p>
-
-<h3>Thanks:</h3>
-
-
-<p>The conference not only gave me the chance to see some excellent speakers talk on inspiring and thought provoking topics but I was also able to meet some people with whom I talk on twitter as <a href="http://twitter.com/onishiweb" target="_blank">@onishiweb</a>. I finally got to meet and have a drink with <a href="http://twitter.com/foamcow" target="_blank">@foamcow</a> and <a href="http://twitter.com/fiftydigital" target="_blank">@fiftydigital</a>. Was able to talk with <a href="http://twitter.com/danrubin" target="_blank">@danrubin</a>, <a href="http://twitter.com/RellyAB" target="_blank">@rellyAB</a>, <a href="http://twitter.com/hicksdesign" target="_blank">@Hicksdesign</a> and <a href="http://twitter.com/brendandawes" target="_blank">@brendandawes</a>. And met some cool new people in the likes of <a href="http://twitter.com/alunr" target="_blank">@alunr</a>, <a href="http://twitter.com/azlan" target="_blank">@azlan</a>, <a href="http://twitter.com/josiecalvert" target="_blank">@josiecalvert</a>, <a href="http://twitter.com/uniongasworx" target="_blank">@UnionGasworx</a> and <a href="http://twitter.com/timharbour" target="_blank">@timharbour</a> thanks guys for making the conference all that more worthwhile.</p>
 ]]></content>
   </entry>
   
